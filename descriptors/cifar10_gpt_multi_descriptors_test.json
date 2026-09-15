@@ -1,0 +1,30 @@
+{
+  "dog": [
+    [
+      "furry body",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "four legs with paws",
+      "tail",
+      "canine face shape",
+      "often wearing a collar or leash"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws",
+      "often wearing a collar"
+    ],
+    [
+      "four-legged furry body",
+      "snout/muzzle with a nose",
+      "floppy or pointed ears",
+      "wagging tail",
+      "paws with claws",
+      "varied coat colors and patterns"
+    ]
+  ]
+}

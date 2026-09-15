@@ -1,0 +1,13 @@
+{
+  "auroc": 0.962924,
+  "fpr95": 0.102,
+  "id_mean": 0.3260471522808075,
+  "ood_mean": 0.22981363534927368,
+  "id_dataset": "oxford_pet",
+  "ood_dataset": "ninco",
+  "ood_split": "hard",
+  "id_samples": 500,
+  "ood_samples": 500,
+  "num_classes": 37,
+  "descriptor_path": "../descriptors/oxford_pet_gpt_descriptors_retrieval_calibrated_eta090.json"
+}

@@ -1,0 +1,633 @@
+{
+  "abyssinian": {
+    "p_c": 0.6,
+    "keep_indices": [
+      0,
+      4,
+      7,
+      6,
+      1,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "american bulldog": {
+    "p_c": 0.2,
+    "keep_indices": [
+      1,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "american pit bull terrier": {
+    "p_c": 0.5,
+    "keep_indices": [
+      1,
+      2,
+      5,
+      7,
+      3
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "basset hound": {
+    "p_c": 0.2,
+    "keep_indices": [
+      2,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "beagle": {
+    "p_c": 0.3,
+    "keep_indices": [
+      2,
+      4,
+      8
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "bengal": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      2,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "birman": {
+    "p_c": 0.8,
+    "keep_indices": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      2
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "bombay": {
+    "p_c": 0.1,
+    "keep_indices": [
+      0
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "boxer": {
+    "p_c": 0.2,
+    "keep_indices": [
+      0,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "british shorthair": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      2
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "chihuahua": {
+    "p_c": 0.7,
+    "keep_indices": [
+      0,
+      1,
+      4,
+      9,
+      2,
+      3,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "egyptian mau": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "english cocker spaniel": {
+    "p_c": 0.9,
+    "keep_indices": [
+      0,
+      1,
+      5,
+      2,
+      3,
+      4,
+      6,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "english setter": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      7,
+      3,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "german shorthaired": {
+    "p_c": 0.2,
+    "keep_indices": [
+      1,
+      2
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "great pyrenees": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      6,
+      7,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "havanese": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      9,
+      2,
+      8,
+      3,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "japanese chin": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      4,
+      5,
+      7,
+      9,
+      2,
+      8,
+      1,
+      3,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "keeshond": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      2,
+      8
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "leonberger": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      6,
+      2
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "maine coon": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      3,
+      2,
+      4,
+      6,
+      9,
+      5,
+      8,
+      7
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "miniature pinscher": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      3,
+      8
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "newfoundland": {
+    "p_c": 0.4,
+    "keep_indices": [
+      0,
+      7,
+      9,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "persian": {
+    "p_c": 0.8,
+    "keep_indices": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "pomeranian": {
+    "p_c": 0.9,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "pug": {
+    "p_c": 0.6,
+    "keep_indices": [
+      2,
+      4,
+      5,
+      7,
+      9,
+      3
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "ragdoll": {
+    "p_c": 0.4,
+    "keep_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "russian blue": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      4
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "saint bernard": {
+    "p_c": 0.8,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9,
+      8,
+      7
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "samoyed": {
+    "p_c": 0.8,
+    "keep_indices": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      9,
+      8
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "scottish terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      7,
+      8,
+      9,
+      3,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "shiba inu": {
+    "p_c": 0.9,
+    "keep_indices": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      7
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "siamese": {
+    "p_c": 0.4,
+    "keep_indices": [
+      0,
+      3,
+      9,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "sphynx": {
+    "p_c": 0.9,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "staffordshire bull terrier": {
+    "p_c": 0.3,
+    "keep_indices": [
+      3,
+      9,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "wheaten terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      1,
+      5
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "yorkshire terrier": {
+    "p_c": 0.2,
+    "keep_indices": [
+      1,
+      6
+    ],
+    "num_sets": 10,
+    "used_descriptors": false,
+    "eta": 0.7,
+    "gamma": 0.5,
+    "topk": 50
+  }
+}

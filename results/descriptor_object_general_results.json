@@ -1,0 +1,17 @@
+{
+  "auroc": 0.986372,
+  "fpr95": 0.058,
+  "id_mean": 0.5426726341247559,
+  "ood_mean": 0.4865981936454773,
+  "id_dataset": "oxford_pet",
+  "ood_dataset": "ninco",
+  "ood_split": "hard",
+  "id_samples": 500,
+  "ood_samples": 500,
+  "num_classes": 37,
+  "alpha": 0.5,
+  "descriptor_path": "../descriptors/oxford_pet_gpt_descriptors_retrieval_calibrated_eta090.json",
+  "id_object_path": "../results/gpt_objects_oxford_pet_500.json",
+  "ood_object_path": "../results/gpt_objects_ninco_hard_500.json",
+  "num_object_words": 333
+}

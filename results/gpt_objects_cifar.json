@@ -1,0 +1,142 @@
+{
+  "0": [
+    "book",
+    "microphone",
+    "speaker",
+    "table",
+    "cup"
+  ],
+  "1": [
+    "dress",
+    "chair",
+    "table",
+    "light",
+    "plant"
+  ],
+  "2": [
+    "mouse",
+    "keyboard",
+    "monitor",
+    "desk",
+    "chair"
+  ],
+  "3": [
+    "woman",
+    "desk",
+    "microphone",
+    "suit",
+    "chair"
+  ],
+  "4": [
+    "dog",
+    "shoe",
+    "grass",
+    "tree",
+    "shirt"
+  ],
+  "5": [
+    "window",
+    "curtain",
+    "chair",
+    "desk",
+    "plant"
+  ],
+  "6": [
+    "shirt",
+    "tie",
+    "jacket",
+    "glove",
+    "door"
+  ],
+  "7": [
+    "lamp",
+    "plant",
+    "curtain",
+    "table",
+    "chair"
+  ],
+  "8": [
+    "cake",
+    "candle",
+    "cup",
+    "plate",
+    "tablecloth"
+  ],
+  "9": [
+    "baby stroller",
+    "handbag",
+    "thermos flask",
+    "door",
+    "flooring"
+  ],
+  "10": [
+    "dog",
+    "ball",
+    "grass",
+    "tree",
+    "bench"
+  ],
+  "11": [
+    "clock",
+    "chair",
+    "table",
+    "glass",
+    "lampshade"
+  ],
+  "12": [
+    "flowerpot",
+    "plant",
+    "table",
+    "deck chair",
+    "flower"
+  ],
+  "13": [
+    "guitar",
+    "microphone",
+    "guitar amplifier",
+    "pedalboard",
+    "power cable"
+  ],
+  "14": [
+    "cat",
+    "dresser",
+    "door",
+    "bottle",
+    "shelves"
+  ],
+  "15": [
+    "cat",
+    "bed",
+    "pillow",
+    "blanket",
+    "curtain"
+  ],
+  "16": [
+    "hot dog",
+    "bun",
+    "lettuce",
+    "tomato slice",
+    "plate"
+  ],
+  "17": [
+    "bear",
+    "shirt",
+    "tree",
+    "grass",
+    "branch"
+  ],
+  "18": [
+    "car",
+    "truck",
+    "building",
+    "light",
+    "utility pole"
+  ],
+  "19": [
+    "laptop",
+    "keyboard",
+    "mouse",
+    "chair",
+    "desk"
+  ]
+}

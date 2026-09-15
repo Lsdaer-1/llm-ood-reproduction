@@ -1,0 +1,192 @@
+{
+  "0": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "table",
+      "bowl",
+      "bag",
+      "sofa"
+    ]
+  },
+  "1": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "cat tree",
+      "window",
+      "building",
+      "table"
+    ]
+  },
+  "2": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "chair",
+      "window",
+      "curtain",
+      "floor"
+    ]
+  },
+  "3": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "flower",
+      "pot",
+      "mat"
+    ]
+  },
+  "4": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "ear"
+    ]
+  },
+  "5": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "bed",
+      "cat",
+      "pillow",
+      "blanket",
+      "stuffed animal"
+    ]
+  },
+  "6": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "hand",
+      "stick"
+    ]
+  },
+  "7": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat"
+    ]
+  },
+  "8": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "floor",
+      "table",
+      "rug"
+    ]
+  },
+  "9": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "floor",
+      "clothing"
+    ]
+  },
+  "10": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "box",
+      "carpet",
+      "wall"
+    ]
+  },
+  "11": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat"
+    ]
+  },
+  "12": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat"
+    ]
+  },
+  "13": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat"
+    ]
+  },
+  "14": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat"
+    ]
+  },
+  "15": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "flower",
+      "leaf",
+      "window",
+      "pot"
+    ]
+  },
+  "16": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "computer",
+      "monitor",
+      "book",
+      "keyboard"
+    ]
+  },
+  "17": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "couch",
+      "rug",
+      "floor",
+      "blanket"
+    ]
+  },
+  "18": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "bed",
+      "pillow",
+      "drawer",
+      "lamp"
+    ]
+  },
+  "19": {
+    "label": 0,
+    "class_name": "abyssinian",
+    "objects": [
+      "cat",
+      "bed",
+      "pillow",
+      "lamp",
+      "chair"
+    ]
+  }
+}

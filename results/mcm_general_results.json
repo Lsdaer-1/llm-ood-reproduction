@@ -1,0 +1,12 @@
+{
+  "auroc": 0.979332,
+  "fpr95": 0.08,
+  "id_mean": 0.32489851117134094,
+  "ood_mean": 0.22853554785251617,
+  "id_dataset": "oxford_pet",
+  "ood_dataset": "ninco",
+  "id_samples": 500,
+  "ood_samples": 500,
+  "num_classes": 37,
+  "model_name": "openai/clip-vit-base-patch16"
+}

@@ -1,0 +1,96 @@
+{
+  "airplane": [
+    "There are several useful visual features to tell there is an airplane in a photo:",
+    "wings extending from the sides",
+    "a long fuselage/body",
+    "tail fin and stabilizers",
+    "jet engines or propellers",
+    "cockpit windows",
+    "landing gear or wheels (if visible)"
+  ],
+  "automobile": [
+    "There are several useful visual features to tell there is a automobile in a photo:",
+    "wheels/tires",
+    "windshield and windows",
+    "headlights and taillights",
+    "metal body with doors",
+    "front grille or bumper"
+  ],
+  "bird": [
+    "There are several useful visual features to tell there is a bird in a photo:",
+    "feathers",
+    "beak",
+    "wings",
+    "two legs",
+    "often a tail",
+    "sometimes perched on branches or flying"
+  ],
+  "cat": [
+    "There are several useful visual features to tell there is a cat in a photo:",
+    "furry body",
+    "pointed ears",
+    "whiskers",
+    "long tail",
+    "slit-shaped eyes",
+    "small nose and muzzle",
+    "retractable claws or paws"
+  ],
+  "deer": [
+    "There are several useful visual features to tell there is a deer in a photo:",
+    "slender body",
+    "long thin legs",
+    "large ears",
+    "antlers on many males",
+    "short tail",
+    "brown or tan coat",
+    "white underside or rump patch",
+    "hoofed feet"
+  ],
+  "dog": [
+    "There are several useful visual features to tell there is a dog in a photo:",
+    "furry body",
+    "four legs",
+    "snout/muzzle",
+    "floppy or pointed ears",
+    "wagging tail",
+    "paws with claws",
+    "varied coat colors and patterns",
+    "often seen wearing a collar or leash"
+  ],
+  "frog": [
+    "There are several useful visual features to tell there is a frog in a photo:",
+    "smooth or warty moist skin",
+    "large bulging eyes",
+    "long powerful hind legs",
+    "squat body shape",
+    "webbed feet",
+    "wide mouth"
+  ],
+  "horse": [
+    "There are several useful visual features to tell there is a horse in a photo:",
+    "large, muscular body",
+    "long legs with hooves",
+    "elongated face and muzzle",
+    "mane along the neck",
+    "long tail",
+    "upright ears"
+  ],
+  "ship": [
+    "There are several useful visual features to tell there is a ship in a photo:",
+    "large hull",
+    "sails or masts, or a deck structure",
+    "sitting on or surrounded by water",
+    "pointed bow",
+    "railings, windows, or smokestacks",
+    "wake or waves around it"
+  ],
+  "truck": [
+    "There are several useful visual features to tell there is a truck in a photo:",
+    "large boxy body",
+    "cargo bed or enclosed trailer",
+    "large wheels",
+    "high ground clearance",
+    "front grille and headlights",
+    "cab for the driver"
+  ]
+}

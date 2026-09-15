@@ -1,0 +1,160 @@
+{
+  "auroc": 0.874705,
+  "fpr95": 0.445,
+  "id_mean": 0.2567465305328369,
+  "ood_mean": 0.218891903758049,
+  "calibration": {
+    "airplane": {
+      "confidence": 0.2,
+      "keep_indices": [
+        0,
+        3
+      ],
+      "num_sets": 10
+    },
+    "automobile": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "bird": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "cat": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "deer": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "dog": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "frog": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "horse": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "ship": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "truck": {
+      "confidence": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    }
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "abyssinian": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "american bulldog": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "american pit bull terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "basset hound": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      8
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "beagle": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "bengal": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "birman": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "bombay": {
+    "p_c": 0.8,
+    "keep_indices": [
+      0,
+      2,
+      3,
+      4,
+      6,
+      9,
+      5,
+      1
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "boxer": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "british shorthair": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "chihuahua": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "egyptian mau": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "english cocker spaniel": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "english setter": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "german shorthaired": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "great pyrenees": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "havanese": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "japanese chin": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "keeshond": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "leonberger": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "maine coon": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "miniature pinscher": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "newfoundland": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "persian": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "pomeranian": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "pug": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "ragdoll": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "russian blue": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "saint bernard": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "samoyed": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "scottish terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "shiba inu": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "siamese": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "sphynx": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "staffordshire bull terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "wheaten terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  },
+  "yorkshire terrier": {
+    "p_c": 1.0,
+    "keep_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "num_sets": 10,
+    "used_descriptors": true,
+    "eta": 0.3,
+    "gamma": 0.5,
+    "topk": 50
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "auroc": 0.971404,
+  "fpr95": 0.092,
+  "id_mean": 0.34536129236221313,
+  "ood_mean": 0.23708774149417877,
+  "id_dataset": "oxford_pet",
+  "ood_dataset": "ninco",
+  "ood_split": "hard",
+  "id_samples": 500,
+  "ood_samples": 500,
+  "eta": 0.95,
+  "gamma": 0.5,
+  "calibration_info": {
+    "abyssinian": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        6
+      ],
+      "num_sets": 10
+    },
+    "american bulldog": {
+      "p_c": 0.9,
+      "keep_indices": [
+        0,
+        2,
+        3,
+        1,
+        6,
+        5,
+        7,
+        9,
+        4
+      ],
+      "num_sets": 10
+    },
+    "american pit bull terrier": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        4
+      ],
+      "num_sets": 10
+    },
+    "basset hound": {
+      "p_c": 0.6,
+      "keep_indices": [
+        0,
+        1,
+        3,
+        7,
+        9,
+        5
+      ],
+      "num_sets": 10
+    },
+    "beagle": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        3,
+        5,
+        6
+      ],
+      "num_sets": 10
+    },
+    "bengal": {
+      "p_c": 0.8,
+      "keep_indices": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        8
+      ],
+      "num_sets": 10
+    },
+    "birman": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        4
+      ],
+      "num_sets": 10
+    },
+    "bombay": {
+      "p_c": 0.4,
+      "keep_indices": [
+        0,
+        4,
+        9,
+        6
+      ],
+      "num_sets": 10
+    },
+    "boxer": {
+      "p_c": 0.6,
+      "keep_indices": [
+        0,
+        3,
+        4,
+        5,
+        2,
+        6
+      ],
+      "num_sets": 10
+    },
+    "british shorthair": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "chihuahua": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        7
+      ],
+      "num_sets": 10
+    },
+    "egyptian mau": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "english cocker spaniel": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "english setter": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "german shorthaired": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        4,
+        8,
+        5,
+        6,
+        7,
+        9,
+        1,
+        2,
+        3
+      ],
+      "num_sets": 10
+    },
+    "great pyrenees": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        1,
+        5,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "havanese": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        5,
+        3
+      ],
+      "num_sets": 10
+    },
+    "japanese chin": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "keeshond": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "leonberger": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "maine coon": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        7
+      ],
+      "num_sets": 10
+    },
+    "miniature pinscher": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "newfoundland": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        7,
+        9,
+        1,
+        5,
+        6,
+        2,
+        3,
+        4,
+        8
+      ],
+      "num_sets": 10
+    },
+    "persian": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "pomeranian": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        8
+      ],
+      "num_sets": 10
+    },
+    "pug": {
+      "p_c": 0.9,
+      "keep_indices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "ragdoll": {
+      "p_c": 0.8,
+      "keep_indices": [
+        0,
+        9,
+        3,
+        4,
+        7,
+        8,
+        6,
+        2
+      ],
+      "num_sets": 10
+    },
+    "russian blue": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "saint bernard": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "samoyed": {
+      "p_c": 0.8,
+      "keep_indices": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "scottish terrier": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        5,
+        9
+      ],
+      "num_sets": 10
+    },
+    "shiba inu": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "siamese": {
+      "p_c": 0.8,
+      "keep_indices": [
+        0,
+        5,
+        6,
+        7,
+        8,
+        9,
+        3,
+        1
+      ],
+      "num_sets": 10
+    },
+    "sphynx": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "staffordshire bull terrier": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        7,
+        8,
+        2,
+        5,
+        3,
+        4,
+        6,
+        9
+      ],
+      "num_sets": 10
+    },
+    "wheaten terrier": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "num_sets": 10
+    },
+    "yorkshire terrier": {
+      "p_c": 1.0,
+      "keep_indices": [
+        0,
+        2,
+        3,
+        7,
+        8,
+        4,
+        9,
+        1,
+        5,
+        6
+      ],
+      "num_sets": 10
+    }
+  }
+}

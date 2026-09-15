@@ -1,0 +1,1921 @@
+{
+  "abyssinian": [
+    [
+      "short fine coat",
+      "ruddy brown color with ticked pattern",
+      "large almond-shaped eyes",
+      "pointed ears",
+      "slender body",
+      "long tail"
+    ],
+    [
+      "short fine coat",
+      "reddish-brown color",
+      "large almond-shaped eyes",
+      "slender body",
+      "ticked tabby pattern",
+      "long legs"
+    ],
+    [
+      "short fine coat",
+      "ruddy brown color",
+      "large almond-shaped eyes",
+      "pointed ears",
+      "slender body",
+      "ticked tabby pattern"
+    ],
+    [
+      "short fine coat",
+      "ticked tabby pattern",
+      "large almond-shaped eyes",
+      "medium-sized ears with rounded tips",
+      "slender, graceful body",
+      "warm reddish-brown coloration"
+    ],
+    [
+      "short fine coat",
+      "ticked tabby pattern",
+      "large almond-shaped eyes",
+      "medium-sized ears with rounded tips",
+      "slender body",
+      "warm reddish-brown color"
+    ],
+    [
+      "short fine fur",
+      "ruddy or warm reddish-brown coat",
+      "large almond-shaped eyes",
+      "slender body",
+      "ticked tabby pattern",
+      "medium-sized ears with rounded tips"
+    ]
+  ],
+  "american bulldog": [],
+  "american pit bull terrier": [
+    [
+      "medium-sized muscular build",
+      "short smooth coat",
+      "broad head with strong jaw",
+      "medium-length tail",
+      "distinctive wide-set eyes",
+      "short, flat ears"
+    ],
+    [
+      "medium-sized muscular build",
+      "short smooth coat",
+      "broad head with strong jaw",
+      "medium-length tail",
+      "wide-set eyes",
+      "often brindle or patchy coat patterns"
+    ],
+    [
+      "medium-sized muscular body",
+      "short smooth coat",
+      "broad head with strong jaw",
+      "distinctive wide-set eyes",
+      "short tail",
+      "often brindle or solid coat pattern"
+    ],
+    [
+      "medium-sized muscular build",
+      "short smooth coat",
+      "broad head with strong jaw",
+      "distinctive brindle or fawn coloring",
+      "medium-length tail",
+      "dark expressive eyes"
+    ],
+    [
+      "medium-sized muscular build",
+      "broad head with pronounced jaw",
+      "short smooth coat",
+      "wide-set eyes",
+      "floppy ears",
+      "distinct brindle or patchy coat pattern"
+    ]
+  ],
+  "basset hound": [],
+  "beagle": [],
+  "bengal": [
+    [
+      "spotted coat with rosettes",
+      "medium to large size",
+      "slender body",
+      "short fur",
+      "round face",
+      "green or amber eyes"
+    ],
+    [
+      "orange coat with dark rosettes",
+      "medium-sized body",
+      "short fur",
+      "rounded ears",
+      "white underbelly",
+      "long tail with dark rings"
+    ],
+    [
+      "spotted coat with rosettes",
+      "medium-sized slender body",
+      "short fur with soft texture",
+      "rounded ears",
+      "long tail with dark rings",
+      "large eyes with expressive gaze"
+    ],
+    [
+      "orange-brown coat with dark rosettes",
+      "medium-sized slender body",
+      "rounded ears",
+      "large almond-shaped eyes",
+      "white underbelly and chest",
+      "long tail with black rings"
+    ],
+    [
+      "spotted orange and brown fur",
+      "medium-sized feline build",
+      "white underbelly",
+      "distinctive rosette-shaped spots",
+      "short fur",
+      "green or amber eyes"
+    ],
+    [
+      "orange and brown spotted coat",
+      "white muzzle and chest",
+      "medium-sized triangular ears",
+      "large green or gold eyes",
+      "long whiskers",
+      "slender body with sleek fur"
+    ],
+    [
+      "medium-sized cat",
+      "orange and brown spotted coat",
+      "striped markings on face",
+      "white underbelly",
+      "large almond-shaped eyes",
+      "pointed ears with slight tufts"
+    ],
+    [
+      "orange and brown spotted coat",
+      "distinctive rosette markings",
+      "medium-sized slender body",
+      "short fur with a glossy sheen",
+      "large almond-shaped eyes",
+      "black and white facial markings"
+    ],
+    [
+      "orange-brown coat with dark rosettes",
+      "medium-sized slender body",
+      "pointed ears with black edges",
+      "white muzzle and chest",
+      "long tail with black rings",
+      "bright green or gold eyes"
+    ],
+    [
+      "orange coat with black rosettes",
+      "medium-sized feline build",
+      "white chin and muzzle",
+      "large expressive eyes",
+      "short fur",
+      "striped forehead pattern"
+    ]
+  ],
+  "birman": [
+    [
+      "long silky fur",
+      "color-point pattern",
+      "blue almond-shaped eyes",
+      "large rounded ears",
+      "plumed tail",
+      "white paws and chest"
+    ],
+    [
+      "medium to long silky fur",
+      "color-pointed coat with cream body",
+      "dark ears and face mask",
+      "blue almond-shaped eyes",
+      "plumed tail",
+      "white paws and chest markings"
+    ],
+    [
+      "medium to long silky coat",
+      "colorpoint pattern with darker ears, face, paws, and tail",
+      "blue almond-shaped eyes",
+      "rounded head with a flat forehead",
+      "medium-sized body with a sturdy build",
+      "plumed tail with long fur"
+    ],
+    [
+      "medium to long silky fur",
+      "pointed ears with tufts",
+      "blue almond-shaped eyes",
+      "color-point pattern on face and ears",
+      "white paws and chest",
+      "bushy tail"
+    ],
+    [
+      "medium to long silky fur",
+      "color-point pattern on face and ears",
+      "blue almond-shaped eyes",
+      "white chest and paws",
+      "flat, broad face",
+      "rounded ears with fur tufts"
+    ],
+    [
+      "medium to long silky fur",
+      "pointed ears with tufts",
+      "blue almond-shaped eyes",
+      "color-point pattern on face and ears",
+      "white inverted \"V\" on the forehead",
+      "fluffy tail with darker tip"
+    ],
+    [
+      "long silky fur",
+      "color-point pattern",
+      "blue almond-shaped eyes",
+      "flat face with a short nose",
+      "white paws and chest",
+      "medium to large size"
+    ],
+    [
+      "medium-length silky fur",
+      "color-point pattern",
+      "blue almond-shaped eyes",
+      "white ruff around neck",
+      "flat face with short muzzle",
+      "tufted ears"
+    ]
+  ],
+  "bombay": [],
+  "boxer": [],
+  "british shorthair": [
+    [
+      "round face",
+      "dense plush coat",
+      "large round eyes",
+      "short broad nose",
+      "small rounded ears",
+      "stocky body"
+    ],
+    [
+      "dense plush fur",
+      "round face",
+      "large expressive eyes",
+      "short broad nose",
+      "small rounded ears",
+      "stocky body shape"
+    ],
+    [
+      "dense plush coat",
+      "round face",
+      "large round eyes",
+      "short muzzle",
+      "small rounded ears",
+      "stocky build"
+    ],
+    [
+      "dense plush coat",
+      "round face",
+      "large round eyes",
+      "short nose",
+      "small rounded ears",
+      "stocky build"
+    ],
+    [
+      "round face",
+      "dense plush fur",
+      "broad chest",
+      "large round eyes",
+      "short muzzle",
+      "thick tail"
+    ],
+    [
+      "round face",
+      "dense plush fur",
+      "large round eyes",
+      "short broad nose",
+      "small rounded ears",
+      "stocky body"
+    ],
+    [
+      "round face",
+      "dense plush coat",
+      "short broad nose",
+      "large round eyes",
+      "small rounded ears",
+      "stocky compact body"
+    ],
+    [
+      "round face",
+      "dense plush coat",
+      "large round eyes",
+      "short broad nose",
+      "small rounded ears",
+      "stocky build"
+    ],
+    [
+      "dense plush gray coat",
+      "round face",
+      "large round eyes",
+      "stocky build",
+      "small rounded ears",
+      "short broad nose"
+    ],
+    [
+      "round face",
+      "dense plush fur",
+      "broad cheeks",
+      "large round eyes",
+      "short nose",
+      "thick tail"
+    ]
+  ],
+  "chihuahua": [
+    [
+      "small size",
+      "large round eyes",
+      "pointed ears",
+      "short snout",
+      "smooth or long fur",
+      "curled tail"
+    ],
+    [
+      "small size",
+      "rounded head",
+      "large expressive eyes",
+      "short snout",
+      "pointed ears",
+      "curly tail"
+    ],
+    [
+      "small size",
+      "large round eyes",
+      "pointed ears",
+      "short muzzle",
+      "curly tail",
+      "smooth or long fur"
+    ],
+    [
+      "small size",
+      "pointed ears",
+      "long snout",
+      "short fur",
+      "curled tail",
+      "large round eyes"
+    ],
+    [
+      "small size",
+      "large round eyes",
+      "short muzzle",
+      "pointed ears",
+      "curly tail",
+      "smooth or long fur coat"
+    ],
+    [
+      "small compact body",
+      "large rounded eyes",
+      "pointed ears",
+      "short snout",
+      "curly tail",
+      "smooth short fur"
+    ],
+    [
+      "small size",
+      "pointed ears",
+      "rounded head",
+      "short muzzle",
+      "smooth or long fur",
+      "curled tail"
+    ]
+  ],
+  "egyptian mau": [
+    [
+      "medium-sized slender body",
+      "short spotted coat",
+      "large almond-shaped green eyes",
+      "distinctive facial markings",
+      "long legs",
+      "triangular ears with rounded tips"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted coat pattern",
+      "short fur with a silvery sheen",
+      "large almond-shaped green eyes",
+      "distinctive facial markings with dark lines",
+      "long legs and tail"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted tabby coat",
+      "large almond-shaped green eyes",
+      "short fur with silver background",
+      "distinctive M-shaped marking on forehead",
+      "long tapering tail"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted coat with rosettes",
+      "short fur",
+      "slanted almond-shaped green eyes",
+      "distinctive \"M\" marking on forehead",
+      "long tail with dark rings"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted coat pattern",
+      "large almond-shaped green eyes",
+      "short smooth fur",
+      "distinctive M-shaped marking on forehead",
+      "long tapered tail"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted coat with rosette patterns",
+      "short fur with silver-gray base color",
+      "large almond-shaped green eyes",
+      "distinctive \"M\" shape on the forehead",
+      "long legs and tail"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted tabby coat pattern",
+      "large almond-shaped green eyes",
+      "short smooth fur",
+      "distinctive facial markings with stripes",
+      "long tail with dark rings"
+    ],
+    [
+      "medium-sized slender body",
+      "spotted coat pattern",
+      "large almond-shaped green eyes",
+      "short fine fur",
+      "distinctive facial markings",
+      "long tail with dark rings"
+    ],
+    [
+      "medium-sized slender body",
+      "short spotted coat",
+      "large almond-shaped green eyes",
+      "distinctive facial markings",
+      "large pointed ears",
+      "long tail with slight taper"
+    ],
+    [
+      "medium-sized slender body",
+      "short spotted coat",
+      "olive green almond-shaped eyes",
+      "distinctive \"M\" mark on forehead",
+      "large pointed ears",
+      "long tail with black rings"
+    ]
+  ],
+  "english cocker spaniel": [
+    [
+      "medium-sized dog",
+      "long, wavy ears",
+      "feathered coat",
+      "tawny or golden brown fur",
+      "white chest and paws",
+      "dark expressive eyes"
+    ],
+    [
+      "medium-sized dog with long ears",
+      "wavy, silky fur",
+      "golden to reddish-brown coat",
+      "white markings on chest and paws",
+      "feathering on ears and legs",
+      "dark, expressive eyes"
+    ],
+    [
+      "medium-sized dog",
+      "long, wavy ears",
+      "silky coat",
+      "feathered legs and tail",
+      "distinctive expressive eyes",
+      "varied coat colors with possible patches"
+    ],
+    [
+      "medium-sized dog with a silky coat",
+      "long, wavy ears",
+      "golden to reddish-brown fur",
+      "feathered tail",
+      "compact, sturdy body",
+      "dark expressive eyes"
+    ],
+    [
+      "medium-sized dog",
+      "long wavy ears",
+      "silky coat",
+      "feathered legs and tail",
+      "tawny or golden color",
+      "distinctive expressive eyes"
+    ],
+    [
+      "medium-sized dog",
+      "long wavy ears",
+      "golden to reddish coat",
+      "feathered fur on legs",
+      "dark expressive eyes",
+      "black nose"
+    ],
+    [
+      "medium-sized dog with a sturdy build",
+      "long, wavy coat",
+      "feathered ears hanging down",
+      "distinctive long ears",
+      "often golden or reddish-brown color",
+      "dark expressive eyes"
+    ],
+    [
+      "medium-sized dog",
+      "long, wavy ears",
+      "golden to reddish coat",
+      "feathered tail",
+      "dark, expressive eyes",
+      "compact, sturdy build"
+    ],
+    [
+      "medium-sized dog",
+      "long, wavy fur",
+      "feathered ears",
+      "compact muzzle",
+      "deep brown eyes",
+      "golden to reddish coat color"
+    ]
+  ],
+  "english setter": [
+    [
+      "long silky coat",
+      "feathered ears",
+      "white blaze on face",
+      "speckled or patched fur",
+      "medium to large size",
+      "long tail with feathering"
+    ],
+    [
+      "long silky coat",
+      "feathered ears",
+      "white blaze on face",
+      "medium to large size",
+      "tan and white coloration",
+      "feathered tail"
+    ],
+    [
+      "long silky coat",
+      "feathered ears",
+      "white blaze on face",
+      "long tail with feathering",
+      "medium to large size",
+      "spotted or speckled fur pattern"
+    ],
+    [
+      "long silky fur",
+      "feathered ears",
+      "white blaze on face",
+      "speckled or mottled coat",
+      "medium size",
+      "long tail with feathering"
+    ],
+    [
+      "long silky white fur with orange patches",
+      "feathered ears",
+      "medium to large size",
+      "narrow elongated head",
+      "dark almond-shaped eyes",
+      "plumed tail"
+    ],
+    [
+      "long silky coat",
+      "feathered ears",
+      "white and orange fur",
+      "long muzzle",
+      "drooping ears",
+      "medium to large size"
+    ],
+    [
+      "long silky coat",
+      "feathered ears",
+      "white blaze on face",
+      "long tail with feathering",
+      "medium to large size",
+      "distinctive speckled markings"
+    ],
+    [
+      "medium to large size",
+      "long silky fur",
+      "distinctive feathering on legs and tail",
+      "white coat with orange or lemon patches",
+      "long, drooping ears",
+      "muzzle with a gentle slope"
+    ],
+    [
+      "long silky coat",
+      "feathered ears",
+      "white and orange or white and black fur",
+      "medium to large size",
+      "narrow muzzle",
+      "expressive dark eyes"
+    ],
+    [
+      "long feathered coat",
+      "white and orange coloration",
+      "long floppy ears",
+      "feathered tail",
+      "medium to large size",
+      "distinctive speckled or mottled fur pattern"
+    ]
+  ],
+  "german shorthaired": [],
+  "great pyrenees": [
+    [
+      "large thick white coat",
+      "long fur around neck and chest",
+      "broad head with a strong muzzle",
+      "dark eyes",
+      "black nose",
+      "fluffy tail often curled over back"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and cream fur",
+      "long bushy tail",
+      "broad head",
+      "dark almond-shaped eyes"
+    ],
+    [
+      "large fluffy white coat",
+      "long fur around neck and chest",
+      "dark eyes",
+      "black nose",
+      "drooping ears",
+      "bushy tail"
+    ],
+    [
+      "large fluffy white coat",
+      "long thick fur",
+      "broad head",
+      "dark eyes",
+      "black nose",
+      "large size"
+    ],
+    [
+      "large thick white coat",
+      "long fur around neck and chest",
+      "broad head with a gentle expression",
+      "dark eyes",
+      "black nose",
+      "large sturdy build"
+    ],
+    [
+      "large fluffy white coat",
+      "long thick fur",
+      "broad head",
+      "dark almond-shaped eyes",
+      "black nose",
+      "large sturdy build"
+    ],
+    [
+      "large fluffy white coat",
+      "long thick fur",
+      "broad head",
+      "dark almond-shaped eyes",
+      "black nose",
+      "large rounded ears"
+    ],
+    [
+      "large fluffy white coat",
+      "long bushy tail",
+      "dark almond-shaped eyes",
+      "broad head with a rounded skull",
+      "black nose",
+      "thick double-layered fur"
+    ],
+    [
+      "large fluffy white coat",
+      "broad head with a rounded shape",
+      "dark almond-shaped eyes",
+      "black nose",
+      "long bushy tail",
+      "strong sturdy build"
+    ],
+    [
+      "large fluffy white coat",
+      "long fur around neck and chest",
+      "black nose",
+      "dark almond-shaped eyes",
+      "bushy tail",
+      "large sturdy build"
+    ]
+  ],
+  "havanese": [
+    [
+      "small size",
+      "long silky coat",
+      "floppy ears",
+      "dark round eyes",
+      "curly tail",
+      "compact body"
+    ],
+    [
+      "small size",
+      "long silky fur",
+      "rounded dark eyes",
+      "floppy ears",
+      "curly tail",
+      "compact body"
+    ],
+    [
+      "long silky coat",
+      "small size",
+      "floppy ears",
+      "curly tail",
+      "dark round eyes",
+      "compact body"
+    ],
+    [
+      "small size",
+      "long silky fur",
+      "curly tail",
+      "dark round eyes",
+      "floppy ears",
+      "compact body"
+    ],
+    [
+      "small size",
+      "long, silky coat",
+      "floppy ears",
+      "compact body",
+      "curly tail",
+      "dark, expressive eyes"
+    ],
+    [
+      "long silky coat",
+      "small size",
+      "floppy ears",
+      "dark round eyes",
+      "curly tail",
+      "compact body"
+    ],
+    [
+      "small size",
+      "long silky fur",
+      "curly tail",
+      "floppy ears",
+      "short snout",
+      "compact body"
+    ],
+    [
+      "long silky fur",
+      "small size",
+      "curly tail",
+      "floppy ears",
+      "compact body",
+      "dark round eyes"
+    ],
+    [
+      "long silky coat",
+      "small compact body",
+      "dark round eyes",
+      "feathered ears",
+      "curled tail",
+      "short legs"
+    ],
+    [
+      "long silky coat",
+      "small compact body",
+      "dark expressive eyes",
+      "floppy ears",
+      "curly tail",
+      "short snout"
+    ]
+  ],
+  "japanese chin": [
+    [
+      "small size",
+      "long silky coat",
+      "distinctive pushed-in face",
+      "large dark eyes",
+      "feathered tail curled over back",
+      "prominent feathering on ears"
+    ],
+    [
+      "small size",
+      "long silky coat",
+      "distinctive facial mask",
+      "feathered tail curled over back",
+      "large dark eyes",
+      "flat face with short muzzle"
+    ],
+    [
+      "small size",
+      "long silky coat",
+      "distinctive pushed-in face",
+      "feathered tail curled over back",
+      "large dark eyes",
+      "prominent ear fringes"
+    ],
+    [
+      "small size",
+      "long flowing coat",
+      "distinctive pushed-in face",
+      "large round eyes",
+      "feathered tail curled over back",
+      "black and white or tan and white coloring"
+    ],
+    [
+      "small size",
+      "long silky coat",
+      "distinctive feathered ears",
+      "flat face with short muzzle",
+      "plumed tail curled over back",
+      "black and white or red and white fur patterns"
+    ],
+    [
+      "small size",
+      "long silky coat",
+      "distinctive feathered ears",
+      "flat face with short muzzle",
+      "arched tail curled over back",
+      "black and white facial markings"
+    ],
+    [
+      "small size",
+      "long silky coat",
+      "feathered ears",
+      "flat face",
+      "black and white or red and white fur",
+      "plumed tail curved over back"
+    ],
+    [
+      "small size",
+      "long flowing coat",
+      "flat face",
+      "large round eyes",
+      "feathered tail curled over back",
+      "distinctive black and white facial markings"
+    ],
+    [
+      "small size",
+      "long flowing coat",
+      "flat face",
+      "large dark eyes",
+      "feathered tail curled over back",
+      "distinctive black and white facial markings"
+    ],
+    [
+      "small size",
+      "long flowing coat",
+      "flat face",
+      "large dark eyes",
+      "feathered tail",
+      "distinctive black and white markings"
+    ]
+  ],
+  "keeshond": [
+    [
+      "thick double coat",
+      "fluffy tail curled over back",
+      "pointed erect ears",
+      "fox-like facial markings",
+      "dense fur around neck forming a ruff",
+      "medium-sized sturdy build"
+    ],
+    [
+      "thick double coat",
+      "curly tail",
+      "pointed ears",
+      "fox-like face",
+      "dense fur around neck",
+      "medium size muzzle"
+    ],
+    [
+      "thick double coat",
+      "fluffy tail curling over back",
+      "pointed erect ears",
+      "fox-like face",
+      "dense fur around neck forming a ruff",
+      "medium size with sturdy build"
+    ],
+    [
+      "thick double coat",
+      "pointed erect ears",
+      "curled fluffy tail",
+      "fox-like facial markings",
+      "medium size",
+      "dense fur around neck and chest"
+    ],
+    [
+      "thick double coat",
+      "fluffy tail curled over back",
+      "pointed ears",
+      "fox-like face",
+      "dense fur around neck forming ruff",
+      "medium size with sturdy build"
+    ],
+    [
+      "thick double coat",
+      "pointed ears",
+      "curled fluffy tail",
+      "fox-like face",
+      "long fur around neck",
+      "small to medium size"
+    ],
+    [
+      "thick double coat",
+      "fluffy curled tail",
+      "pointed erect ears",
+      "fox-like face",
+      "dense fur around neck",
+      "medium-sized sturdy build"
+    ],
+    [
+      "thick double coat",
+      "fluffy curled tail",
+      "pointed ears",
+      "fox-like face",
+      "dense fur around neck",
+      "medium-sized body"
+    ],
+    [
+      "thick double coat",
+      "fox-like face",
+      "pointed ears",
+      "curled tail",
+      "dense fur around neck",
+      "medium size muzzle"
+    ],
+    [
+      "thick double coat",
+      "curly tail",
+      "pointed ears",
+      "distinct facial mask",
+      "medium size",
+      "fluffy fur around neck"
+    ]
+  ],
+  "leonberger": [
+    [
+      "large size",
+      "thick double coat",
+      "golden to reddish fur",
+      "black mask on face",
+      "bushy tail",
+      "drooping ears"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "golden to cream color",
+      "broad head",
+      "dark mask on face",
+      "floppy ears"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "golden to reddish fur color",
+      "black mask on face",
+      "drooping ears",
+      "bushy tail"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "golden to cream coloration",
+      "broad head",
+      "dark mask on face",
+      "fluffy tail"
+    ],
+    [
+      "very large size",
+      "thick double coat",
+      "golden to reddish-brown fur",
+      "black mask on face",
+      "broad head with drooping ears",
+      "deep chest"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "golden to reddish-brown fur",
+      "black mask on face",
+      "broad head",
+      "drooping ears"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "golden to reddish fur color",
+      "black mask on face",
+      "bushy tail",
+      "drooping ears"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "long fur around neck and chest",
+      "broad head",
+      "droopy ears",
+      "fawn or golden coloration"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "long fur around neck and chest",
+      "broad head",
+      "dark eyes",
+      "black nose"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "long fur around neck and chest",
+      "broad head",
+      "drooping ears",
+      "black mask on face"
+    ]
+  ],
+  "maine coon": [
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face",
+      "distinctive ruff around neck",
+      "tabby pattern"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "large size",
+      "prominent ruff around neck",
+      "tabby pattern"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face",
+      "large size",
+      "distinctive tabby markings"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "square muzzle",
+      "broad head",
+      "tabby pattern"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face",
+      "prominent whisker pads",
+      "tabby pattern"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad muzzle",
+      "tabby pattern",
+      "large size"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face",
+      "distinctive ruff around neck",
+      "tabby patterned coat"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "broad face",
+      "bushy tail",
+      "tabby pattern",
+      "large size"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face with prominent whiskers",
+      "tabby or striped pattern",
+      "large, sturdy build"
+    ],
+    [
+      "long thick fur",
+      "large tufted ears",
+      "bushy tail",
+      "broad face",
+      "prominent ruff around neck",
+      "tabby pattern with stripes"
+    ]
+  ],
+  "miniature pinscher": [
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloring",
+      "pointed ears",
+      "compact body",
+      "curled tail"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloration",
+      "compact muscular body",
+      "pointed erect ears",
+      "curled tail"
+    ],
+    [
+      "small compact body",
+      "short smooth coat",
+      "pointed ears standing upright",
+      "black nose",
+      "short tail",
+      "tan and black fur coloration"
+    ],
+    [
+      "small compact body",
+      "short smooth coat",
+      "erect pointed ears",
+      "tapered muzzle",
+      "short tail",
+      "dark eyes"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloring",
+      "pointed ears",
+      "compact body",
+      "curled tail"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloration",
+      "pointed ears",
+      "compact body",
+      "curled tail"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloration",
+      "pointed ears",
+      "compact body",
+      "curled tail"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "black and tan coloring",
+      "pointed ears",
+      "compact body",
+      "curled tail"
+    ],
+    [
+      "small compact body",
+      "short smooth coat",
+      "erect ears",
+      "long slender legs",
+      "narrow muzzle",
+      "short tail"
+    ],
+    [
+      "small size",
+      "short smooth coat",
+      "tan and black coloration",
+      "pointed ears",
+      "compact body",
+      "short tail"
+    ]
+  ],
+  "newfoundland": [],
+  "persian": [
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "thick bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "thick bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "full bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "rounded face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "thick bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "bushy tail"
+    ],
+    [
+      "long fluffy fur",
+      "round face",
+      "flat nose",
+      "large expressive eyes",
+      "small rounded ears",
+      "bushy tail"
+    ],
+    [
+      "long fluffy coat",
+      "flat face",
+      "round eyes",
+      "small rounded ears",
+      "short snout",
+      "plush tail"
+    ]
+  ],
+  "pomeranian": [
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "pointed ears",
+      "compact body"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "erect triangular ears",
+      "compact body"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "pointed ears",
+      "compact body"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "short muzzle",
+      "erect ears"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "short muzzle",
+      "erect ears"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "small pointed ears",
+      "short muzzle"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "fox-like face",
+      "plumed tail curled over back",
+      "pointed ears",
+      "compact body shape"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "fox-like face",
+      "plumed tail curled over back",
+      "pointed ears",
+      "compact body"
+    ],
+    [
+      "small size",
+      "fluffy double coat",
+      "plumed tail curled over back",
+      "fox-like face",
+      "small erect ears",
+      "compact body structure"
+    ]
+  ],
+  "pug": [
+    [
+      "wrinkled face",
+      "short muzzle",
+      "curly tail",
+      "compact body",
+      "large, round eyes",
+      "smooth, short coat"
+    ],
+    [
+      "wrinkled face",
+      "short muzzle",
+      "curly tail",
+      "compact body",
+      "large round eyes",
+      "smooth short coat"
+    ],
+    [
+      "wrinkled face",
+      "short muzzle",
+      "curly tail",
+      "compact body",
+      "large round eyes",
+      "smooth short coat"
+    ],
+    [
+      "wrinkled face",
+      "curly tail",
+      "short muzzle",
+      "large round eyes",
+      "compact body",
+      "smooth coat"
+    ],
+    [
+      "wrinkled face",
+      "short muzzle",
+      "curly tail",
+      "large round eyes",
+      "small folded ears",
+      "compact sturdy body"
+    ],
+    [
+      "wrinkled face",
+      "curly tail",
+      "short muzzle",
+      "compact body",
+      "short smooth coat",
+      "large round eyes"
+    ]
+  ],
+  "ragdoll": [],
+  "russian blue": [
+    [
+      "solid blue-gray coat",
+      "medium-sized slender body",
+      "green almond-shaped eyes",
+      "short dense fur",
+      "triangular face shape",
+      "straight tail"
+    ],
+    [
+      "solid blue-gray coat",
+      "short dense fur",
+      "green eyes",
+      "medium-sized slender body",
+      "triangular face",
+      "pointed ears"
+    ],
+    [
+      "short dense blue-gray coat",
+      "medium-sized slender body",
+      "bright green eyes",
+      "triangular ears with rounded tips",
+      "distinctive whisker pads",
+      "long tapering tail"
+    ],
+    [
+      "short dense blue-gray coat",
+      "green almond-shaped eyes",
+      "medium-sized slender body",
+      "triangular face with prominent whisker pads",
+      "straight tail with a slight taper",
+      "rounded ears with a slight tilt forward"
+    ],
+    [
+      "short dense bluish-gray coat",
+      "green almond-shaped eyes",
+      "medium-sized slender body",
+      "triangular face with a straight nose",
+      "medium-length tail with tapered tip",
+      "prominent whisker pads"
+    ],
+    [
+      "short dense blue-grey coat",
+      "medium-sized slender body",
+      "green almond-shaped eyes",
+      "triangular ears with rounded tips",
+      "long tapered tail",
+      "small rounded paws"
+    ],
+    [
+      "short dense blue-gray coat",
+      "green almond-shaped eyes",
+      "medium-sized slender body",
+      "triangular face shape",
+      "small rounded ears",
+      "long tapering tail"
+    ],
+    [
+      "short dense blue-gray coat",
+      "medium-sized slender body",
+      "green almond-shaped eyes",
+      "straight tail with slight taper",
+      "medium-sized triangular ears",
+      "compact rounded face"
+    ],
+    [
+      "short dense blue-gray coat",
+      "green eyes",
+      "medium-sized body",
+      "pointed ears",
+      "slender face",
+      "long whiskers"
+    ],
+    [
+      "short dense blue-grey coat",
+      "green eyes",
+      "slender body",
+      "pointed ears",
+      "medium-sized cat",
+      "tapered tail"
+    ]
+  ],
+  "saint bernard": [
+    [
+      "large size",
+      "thick dense coat",
+      "white and brown coloration",
+      "broad head",
+      "drooping ears",
+      "black nose"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and brown fur patches",
+      "drooping ears",
+      "broad head",
+      "black nose"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and brown fur pattern",
+      "broad head",
+      "drooping ears",
+      "black nose"
+    ],
+    [
+      "large size",
+      "thick fur",
+      "white and brown coat",
+      "broad head",
+      "drooping ears",
+      "black nose"
+    ],
+    [
+      "large size",
+      "long thick fur",
+      "white and brown coat",
+      "broad head",
+      "drooping ears",
+      "black nose"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and brown coloration",
+      "broad head",
+      "drooping ears",
+      "dark nose"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and brown fur pattern",
+      "broad head",
+      "drooping ears",
+      "dark eyes"
+    ],
+    [
+      "large size",
+      "thick double coat",
+      "white and brown coloration",
+      "broad head",
+      "drooping ears",
+      "dark eyes"
+    ]
+  ],
+  "samoyed": [
+    [
+      "thick fluffy white coat",
+      "curled tail",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes",
+      "broad muzzle"
+    ],
+    [
+      "thick fluffy white coat",
+      "curled tail",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes",
+      "broad muzzle"
+    ],
+    [
+      "thick fluffy white coat",
+      "curled tail over the back",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes",
+      "dense double-layer fur"
+    ],
+    [
+      "thick white fluffy coat",
+      "dense double-layer fur",
+      "curled bushy tail",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes"
+    ],
+    [
+      "thick fluffy white coat",
+      "curled tail over back",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes",
+      "broad muzzle"
+    ],
+    [
+      "thick fluffy white fur",
+      "curled bushy tail",
+      "pointed erect ears",
+      "black nose",
+      "dark almond-shaped eyes",
+      "broad muzzle"
+    ],
+    [
+      "thick white fur",
+      "fluffy double coat",
+      "curled tail",
+      "pointed ears",
+      "black nose",
+      "dark almond-shaped eyes"
+    ],
+    [
+      "thick fluffy white coat",
+      "curled tail over the back",
+      "pointed erect ears",
+      "dark almond-shaped eyes",
+      "black nose",
+      "compact sturdy build"
+    ]
+  ],
+  "scottish terrier": [
+    [
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "pointed erect ears",
+      "compact sturdy body",
+      "short legs",
+      "black nose"
+    ],
+    [
+      "compact sturdy body",
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "erect pointed ears",
+      "short tail",
+      "black or dark-colored nose"
+    ],
+    [
+      "compact body",
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "erect pointed ears",
+      "short legs",
+      "black or dark-colored fur"
+    ],
+    [
+      "small size",
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "erect ears",
+      "compact body",
+      "black or dark-colored nose"
+    ],
+    [
+      "compact body",
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "erect pointed ears",
+      "short legs",
+      "black or dark-colored nose"
+    ],
+    [
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "compact sturdy body",
+      "erect ears",
+      "black or dark-colored nose",
+      "short tail"
+    ],
+    [
+      "small size",
+      "dense wiry coat",
+      "distinctive beard and eyebrows",
+      "erect ears",
+      "compact sturdy body",
+      "black or dark-colored fur"
+    ],
+    [
+      "small size",
+      "distinctive beard and eyebrows",
+      "rough, wiry coat",
+      "black or dark gray fur",
+      "pointed ears",
+      "compact, sturdy build"
+    ],
+    [
+      "small size",
+      "distinctive beard and eyebrows",
+      "dense wiry coat",
+      "erect ears",
+      "compact body",
+      "black or dark-colored coat"
+    ],
+    [
+      "small size",
+      "black or dark coat",
+      "distinctive beard and eyebrows",
+      "erect ears",
+      "compact body",
+      "short legs"
+    ]
+  ],
+  "shiba inu": [
+    [
+      "curled tail",
+      "fox-like face",
+      "erect triangular ears",
+      "thick double coat",
+      "reddish tan fur",
+      "white markings on face and chest"
+    ],
+    [
+      "curled tail",
+      "fox-like face",
+      "erect triangular ears",
+      "thick double coat",
+      "reddish-tan fur",
+      "white markings on face and chest"
+    ],
+    [
+      "curled fluffy tail",
+      "thick double coat",
+      "pointed erect ears",
+      "fox-like face",
+      "reddish-brown fur",
+      "white markings on chest and legs"
+    ],
+    [
+      "curled fluffy tail",
+      "pointed erect ears",
+      "thick double coat",
+      "fox-like face",
+      "reddish tan fur",
+      "white markings on face and chest"
+    ],
+    [
+      "curled fluffy tail",
+      "pointed upright ears",
+      "compact medium-sized body",
+      "thick double coat",
+      "reddish-tan fur color",
+      "white markings on chest and face"
+    ],
+    [
+      "curled tail",
+      "fox-like face",
+      "thick double coat",
+      "pointed ears",
+      "reddish tan fur",
+      "white markings on chest and legs"
+    ],
+    [
+      "curled tail",
+      "thick double coat",
+      "fox-like face",
+      "upright triangular ears",
+      "reddish tan fur",
+      "white markings on chest and paws"
+    ],
+    [
+      "curled fluffy tail",
+      "fox-like face",
+      "small upright ears",
+      "thick double coat",
+      "reddish tan fur",
+      "white markings on chest and legs"
+    ],
+    [
+      "curled bushy tail",
+      "pointed erect ears",
+      "thick double coat",
+      "fox-like face",
+      "reddish-orange fur",
+      "white markings on chest and legs"
+    ]
+  ],
+  "siamese": [],
+  "sphynx": [
+    [
+      "hairless skin",
+      "large ears",
+      "prominent cheekbones",
+      "wrinkled forehead",
+      "almond-shaped eyes",
+      "slender body"
+    ],
+    [
+      "hairless body",
+      "wrinkled skin",
+      "large ears",
+      "almond-shaped eyes",
+      "elongated neck",
+      "prominent cheekbones"
+    ],
+    [
+      "hairless body",
+      "wrinkled skin",
+      "large ears",
+      "almond-shaped eyes",
+      "prominent cheekbones",
+      "long slender neck"
+    ],
+    [
+      "hairless skin",
+      "wrinkled appearance",
+      "large ears",
+      "almond-shaped eyes",
+      "elongated neck",
+      "prominent cheekbones"
+    ],
+    [
+      "hairless skin",
+      "large ears",
+      "wrinkled forehead",
+      "almond-shaped eyes",
+      "prominent cheekbones",
+      "slender body"
+    ],
+    [
+      "hairless skin",
+      "large almond-shaped eyes",
+      "prominent cheekbones",
+      "large, open ears",
+      "slender, muscular body",
+      "wrinkled skin around forehead"
+    ],
+    [
+      "hairless skin with wrinkles",
+      "large pointed ears",
+      "almond-shaped eyes",
+      "elongated neck",
+      "slender body",
+      "prominent cheekbones"
+    ],
+    [
+      "hairless skin with visible wrinkles",
+      "large ears with pointed tips",
+      "almond-shaped eyes",
+      "elongated neck",
+      "slender body",
+      "prominent cheekbones"
+    ],
+    [
+      "hairless skin with visible wrinkles",
+      "large ears with rounded tips",
+      "almond-shaped eyes",
+      "prominent cheekbones",
+      "slender, elongated body",
+      "long, slender tail"
+    ]
+  ],
+  "staffordshire bull terrier": [],
+  "wheaten terrier": [
+    [
+      "wheaten-colored coat",
+      "medium-length wiry fur",
+      "rectangular body shape",
+      "dark almond-shaped eyes",
+      "black nose",
+      "floppy ears"
+    ],
+    [
+      "wheaten colored coat",
+      "medium-sized dog",
+      "silky, soft fur",
+      "long ears with feathering",
+      "dark expressive eyes",
+      "compact, sturdy build"
+    ],
+    [
+      "wheaten-colored wiry coat",
+      "medium-sized sturdy build",
+      "rectangular-shaped body",
+      "folded ears",
+      "dark almond-shaped eyes",
+      "black nose"
+    ],
+    [
+      "wheaten-colored coat",
+      "medium-sized build",
+      "long, wavy fur",
+      "dark eyes",
+      "black nose",
+      "floppy ears"
+    ],
+    [
+      "wheaten colored coat",
+      "medium-sized build",
+      "long, wavy fur",
+      "dark eyes",
+      "black nose",
+      "floppy ears"
+    ],
+    [
+      "soft wavy coat",
+      "golden wheaten color",
+      "medium size",
+      "long floppy ears",
+      "dark almond-shaped eyes",
+      "black nose"
+    ],
+    [
+      "medium-sized dog",
+      "soft wavy coat",
+      "wheaten (light tan) fur color",
+      "long ears covered with hair",
+      "dark expressive eyes",
+      "black nose"
+    ],
+    [
+      "wheaten-colored wiry coat",
+      "medium-sized build",
+      "long, floppy ears",
+      "dark round eyes",
+      "black nose",
+      "bushy tail"
+    ],
+    [
+      "wheaten-colored wiry coat",
+      "medium-sized build",
+      "long, floppy ears",
+      "dark, expressive eyes",
+      "black nose",
+      "curly tail"
+    ],
+    [
+      "wheaten-colored coat",
+      "medium-sized body",
+      "long, silky fur",
+      "dark, expressive eyes",
+      "black nose",
+      "floppy ears"
+    ]
+  ],
+  "yorkshire terrier": []
+}

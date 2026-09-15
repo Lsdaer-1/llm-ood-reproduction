@@ -1,0 +1,810 @@
+{
+  "airplane": [
+    [
+      "wings extending from the body",
+      "tail fin and horizontal stabilizers",
+      "long cylindrical fuselage",
+      "cockpit windows at the front",
+      "engines under the wings or near the rear",
+      "landing gear or wheels, if visible"
+    ],
+    [
+      "wings",
+      "tail fin",
+      "long fuselage/body",
+      "engines or propellers",
+      "cockpit windows",
+      "landing gear",
+      "streamlined shape"
+    ],
+    [
+      "long fuselage/body",
+      "large wings",
+      "tail fin",
+      "engines or propellers",
+      "landing gear or wheels"
+    ],
+    [
+      "wings",
+      "long fuselage/body",
+      "tail fin",
+      "engines or propellers",
+      "landing gear",
+      "cockpit"
+    ],
+    [
+      "long wings",
+      "streamlined fuselage/body",
+      "tail fin and horizontal stabilizers",
+      "cockpit windows",
+      "jet engines or propellers",
+      ""
+    ],
+    [
+      "wings",
+      "fuselage/body",
+      "tail fin",
+      "engines or propellers",
+      "landing gear",
+      "cockpit/windows"
+    ],
+    [
+      "wings",
+      "fuselage/body",
+      "tail fin",
+      "engines or propellers",
+      "landing gear",
+      "cockpit windows"
+    ],
+    [
+      "wings",
+      "long fuselage/body",
+      "tail fin",
+      "engines or propellers",
+      "landing gear or wheels"
+    ],
+    [
+      "wings",
+      "tail fin",
+      "long fuselage",
+      "cockpit windows",
+      "jet engines or propellers"
+    ],
+    [
+      "wings extending from the body",
+      "a long, streamlined fuselage",
+      "tail fin and horizontal stabilizers",
+      "cockpit windows at the front",
+      "engines under the wings or on the body"
+    ]
+  ],
+  "automobile": [
+    [
+      "wheels or tires",
+      "windshield and windows",
+      "headlights or taillights",
+      "metal body with doors",
+      "license plate or grille"
+    ],
+    [
+      "four wheels",
+      "headlights and taillights",
+      "windows and windshield",
+      "metal body with doors",
+      "license plate"
+    ],
+    [
+      "four wheels",
+      "car body with doors",
+      "windshield and windows",
+      "headlights and taillights",
+      "front grille or bumper"
+    ],
+    [
+      "four wheels with tires",
+      "headlights and taillights",
+      "windshield and windows",
+      "doors and side mirrors",
+      "metal body with hood and trunk"
+    ],
+    [
+      "four wheels/tires",
+      "windshield and windows",
+      "headlights and taillights",
+      "car body with doors",
+      "license plate or grille"
+    ],
+    [
+      "four wheels",
+      "metal body",
+      "windows and windshield",
+      "headlights and taillights",
+      "doors",
+      "license plate"
+    ],
+    [
+      "four wheels",
+      "windshield and windows",
+      "headlights and taillights",
+      "metal body with doors",
+      "license plate"
+    ],
+    [
+      "wheels",
+      "headlights",
+      "windshield",
+      "doors",
+      "metal body",
+      "license plate"
+    ],
+    [
+      "four wheels",
+      "windows and windshield",
+      "headlights and taillights",
+      "metal body with doors",
+      "license plate",
+      "front grille or bumper"
+    ],
+    [
+      "wheels and tires",
+      "windshield and windows",
+      "headlights and taillights",
+      "doors and side mirrors",
+      "metal body or frame",
+      ""
+    ]
+  ],
+  "bird": [
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs",
+      "often a tail and claws/talons"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with claws/talons",
+      "often a tail made of feathers",
+      "sometimes distinctive colors or plumage patterns"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two thin legs with clawed feet",
+      "often a tail made of feathers"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs",
+      "often a tail or visible plumage"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with clawed feet",
+      "often a tail made of feathers"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with clawed feet",
+      "often a tail made of feathers"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with clawed feet",
+      "often a tail made of feathers"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with clawed feet",
+      "tail feathers",
+      "often perched or flying"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with clawed feet",
+      "tail feathers"
+    ],
+    [
+      "feathers",
+      "beak",
+      "wings",
+      "two legs with claws/talons",
+      "often a distinctive tail or plumage colors"
+    ]
+  ],
+  "cat": [
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "slit-shaped eyes",
+      "small nose",
+      "paws with claws"
+    ],
+    [
+      "pointed ears",
+      "whiskers",
+      "slit-shaped pupils",
+      "furry body",
+      "long tail",
+      "small nose and muzzle",
+      "retractable claws or paws",
+      "agile, crouched posture"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "large eyes, often with slit pupils",
+      "small nose and feline face",
+      "padded paws with claws"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "slit-shaped eyes",
+      "small nose and muzzle"
+    ],
+    [
+      "pointed ears",
+      "whiskers",
+      "furry body",
+      "long tail",
+      "large eyes, often with vertical slit pupils",
+      "small nose and muzzle"
+    ],
+    [
+      "pointed ears",
+      "whiskers",
+      "furry body",
+      "long tail",
+      "large eyes with slit pupils"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "slit-shaped eyes",
+      "small nose and muzzle"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "large eyes with slit-like pupils"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "large eyes, often with slit-shaped pupils",
+      "long tail",
+      "small nose and muzzle"
+    ],
+    [
+      "furry body",
+      "pointed ears",
+      "whiskers",
+      "long tail",
+      "large eyes with slit-shaped pupils"
+    ]
+  ],
+  "deer": [
+    [
+      "slender body with long legs",
+      "brown or tan fur",
+      "large ears",
+      "antlers, often on males",
+      "white tail or white rump patch",
+      "narrow face with a black nose"
+    ],
+    [
+      "slender body with long legs",
+      "brown or tan fur",
+      "large ears",
+      "white tail or white rump patch",
+      "antlers, often on males",
+      "hooves",
+      "long narrow face with a"
+    ],
+    [
+      "slender body",
+      "long thin legs",
+      "large ears",
+      "short tail",
+      "brown or tan fur",
+      "antlers on many males",
+      "white spots on some young deer",
+      "narrow face and dark nose"
+    ],
+    [
+      "slender body",
+      "long thin legs",
+      "hooves",
+      "large ears",
+      "brown or tan fur",
+      "white tail or rump patch",
+      "antlers, if it is a"
+    ],
+    [
+      "slender brown or tan body",
+      "long thin legs with hooves",
+      "large upright ears",
+      "short tail, often with a white underside",
+      "antlers"
+    ],
+    [
+      "slender legs",
+      "brown/tan fur",
+      "antlers (in many males)",
+      "large ears",
+      "white tail or rump patch"
+    ],
+    [
+      "slender, four-legged body",
+      "long thin legs",
+      "brown or tan fur",
+      "large ears",
+      "narrow face and dark nose",
+      "antlers on many males",
+      "short tail, often with white underside",
+      "white spots"
+    ],
+    [
+      "slender body with long legs",
+      "hooves",
+      "large ears",
+      "brown or tan fur",
+      "white tail or rump patch",
+      "antlers, especially on males",
+      "elongated face"
+    ],
+    [
+      "slender body with long legs",
+      "brown or tan coat, sometimes with white spots",
+      "large ears",
+      "short tail, often white underneath",
+      "antlers on many adult males",
+      "narrow face with a black nose"
+    ],
+    [
+      "slender body with long legs",
+      "brown or tan fur",
+      "large ears",
+      "antlers, especially on males",
+      "white tail or rump patch",
+      "hoofed feet",
+      ""
+    ]
+  ],
+  "dog": [
+    [
+      "furry body",
+      "four legs",
+      "floppy or pointed ears",
+      "snout/muzzle with a nose",
+      "wagging tail",
+      "visible paws or claws"
+    ],
+    [
+      "furry body",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "four legs with paws",
+      "tail",
+      "expressive eyes and nose"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "tail",
+      "floppy or pointed ears",
+      "snout or muzzle",
+      "wet nose",
+      "paws",
+      "often wearing a collar"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws with claws",
+      "often wearing a collar or leash"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout/muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws with claws",
+      "varied coat colors and patterns"
+    ],
+    [
+      "four-legged furry body",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws with claws",
+      "varied coat colors and patterns"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws with claws",
+      "varied coat colors and patterns"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "wagging tail",
+      "paws with claws",
+      "expressive eyes",
+      "often wearing a collar"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws",
+      "expressive eyes"
+    ],
+    [
+      "furry body",
+      "four legs",
+      "snout or muzzle",
+      "floppy or pointed ears",
+      "tail",
+      "paws",
+      "dog-like face with a nose and expressive eyes"
+    ]
+  ],
+  "frog": [
+    [
+      "smooth or bumpy moist skin",
+      "large bulging eyes",
+      "long powerful hind legs",
+      "webbed feet",
+      "wide mouth",
+      "squat body shape"
+    ],
+    [
+      "smooth or bumpy moist-looking skin",
+      "large bulging eyes",
+      "long powerful hind legs",
+      "webbed feet",
+      "squat, tailless body",
+      "wide mouth"
+    ],
+    [
+      "smooth or bumpy moist-looking skin",
+      "large bulging eyes",
+      "wide mouth",
+      "short body with long hind legs",
+      "webbed feet",
+      "crouching or jumping posture"
+    ],
+    [
+      "smooth, moist-looking skin",
+      "large bulging eyes",
+      "long hind legs",
+      "webbed feet",
+      "squat body",
+      "often green or brown coloration"
+    ],
+    [
+      "smooth or bumpy moist skin",
+      "large bulging eyes",
+      "long hind legs for jumping",
+      "webbed feet",
+      "squat, tailless body"
+    ],
+    [
+      "smooth or bumpy moist-looking skin",
+      "large bulging eyes",
+      "wide mouth",
+      "squat body with no visible neck",
+      "long powerful hind legs",
+      "webbed feet",
+      "green, brown, or mottled camouflage coloring"
+    ],
+    [
+      "smooth, moist skin",
+      "large bulging eyes",
+      "long powerful hind legs",
+      "webbed feet",
+      "squat body shape",
+      "wide mouth"
+    ],
+    [
+      "smooth, moist skin",
+      "large bulging eyes",
+      "long hind legs for jumping",
+      "squat body shape",
+      "wide mouth",
+      "webbed feet"
+    ],
+    [
+      "smooth, moist-looking skin",
+      "large bulging eyes",
+      "wide mouth",
+      "short, squat body",
+      "long powerful hind legs for jumping",
+      "webbed feet",
+      "often green, brown, or brightly patterned coloring"
+    ],
+    [
+      "smooth or bumpy moist-looking skin",
+      "large bulging eyes",
+      "wide mouth",
+      "long powerful hind legs",
+      "webbed feet",
+      "squat, tailless body posture",
+      "often green, brown, or brightly colored body patterns"
+    ]
+  ],
+  "horse": [
+    [
+      "large four-legged body",
+      "long legs",
+      "elongated face or muzzle",
+      "mane along the neck",
+      "long tail",
+      "hooves"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face or muzzle",
+      "mane along the neck",
+      "tail with long hair",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "upright ears",
+      "mane along the neck",
+      "long tail"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "mane along the neck",
+      "long tail",
+      "upright ears",
+      "often seen with a saddle, bridle, or rider"
+    ],
+    [
+      "large muscular body",
+      "long legs with hooves",
+      "long face or muzzle",
+      "mane along the neck",
+      "tail",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "mane along the neck",
+      "tail with long hair",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "mane along the neck",
+      "tail with long hair",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face or muzzle",
+      "mane along the neck",
+      "long tail",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "mane along the neck",
+      "long tail",
+      "upright ears"
+    ],
+    [
+      "large, strong body",
+      "long legs with hooves",
+      "elongated face and muzzle",
+      "mane along the neck",
+      "long tail",
+      "upright ears"
+    ]
+  ],
+  "ship": [
+    [
+      "large hull",
+      "deck or cabin structures",
+      "masts, funnels, or antennas",
+      "floating on water",
+      "bow and stern shape"
+    ],
+    [
+      "large boat-like hull",
+      "sails or masts, or a tall superstructure",
+      "floating on water",
+      "deck, railings, or cargo containers",
+      "bow and stern shape"
+    ],
+    [
+      "large hull",
+      "deck or cabin structures",
+      "mast or smokestack",
+      "floating on water",
+      "bow and stern shape"
+    ],
+    [
+      "large hull or boat-shaped body",
+      "floating on water",
+      "decks, cabins, or superstructure",
+      "masts, sails, or smokestacks",
+      "bow and stern shape",
+      "waves or wake around it"
+    ],
+    [
+      "large hull",
+      "deck or cabins",
+      "mast, sails, or smokestacks"
+    ],
+    [
+      "large hull",
+      "deck or superstructure",
+      "mast, sails, or smokestack",
+      "bow and stern shape",
+      "floating on water"
+    ],
+    [
+      "large hull floating on water",
+      "sails, masts, or smokestacks",
+      "deck structures or cabins",
+      "bow and stern shape",
+      "wake or waves around it"
+    ],
+    [
+      "large hull",
+      "sails or smokestacks",
+      "floating on water"
+    ],
+    [
+      "large hull floating on water",
+      "deck or cabin structures",
+      "mast, sails, or smokestacks",
+      "bow and stern shape",
+      "railings, windows, or portholes",
+      "wakes or waves around it"
+    ],
+    [
+      "large hull",
+      "sails or smokestacks",
+      "deck structures",
+      "mast or antennae",
+      "floating on water"
+    ]
+  ],
+  "truck": [
+    [
+      "large, boxy body",
+      "cargo bed or trailer",
+      "large wheels and tires",
+      "high ground clearance",
+      "front grille and headlights",
+      "cab area for the driver",
+      "heavy-duty or commercial appearance"
+    ],
+    [
+      "large rectangular cargo bed or trailer",
+      "high ground clearance",
+      "big wheels and tires",
+      "cab with windshield and side mirrors",
+      "boxy, heavy-duty body shape"
+    ],
+    [
+      "large boxy body",
+      "cargo bed or trailer",
+      "large wheels",
+      "high ground clearance",
+      "prominent front grille",
+      "headlights and side mirrors"
+    ],
+    [
+      "large vehicle body",
+      "cargo bed or trailer",
+      "big wheels",
+      "high ground clearance",
+      "prominent front grille"
+    ],
+    [
+      "large boxy body or cab",
+      "open cargo bed or enclosed trailer/container",
+      "large wheels and high ground clearance",
+      "front grille, headlights, and side mirrors",
+      "heavier, taller appearance than a car"
+    ],
+    [
+      "large, boxy body",
+      "cargo bed or trailer",
+      "large wheels",
+      "high ground clearance",
+      "front cab with windshield and side mirrors"
+    ],
+    [
+      "large rectangular body or cargo bed",
+      "driver’s cab at the front",
+      "multiple large wheels",
+      "high ground clearance",
+      "boxy shape",
+      "headlights and grille at the front"
+    ],
+    [
+      "large boxy body",
+      "cargo bed or trailer",
+      "large wheels",
+      "high ground clearance",
+      "cab at the front",
+      "headlights and grille",
+      "heavy-duty tires"
+    ],
+    [
+      "large, boxy vehicle body",
+      "cargo bed or trailer/container area",
+      "large wheels and high ground clearance",
+      "front grille and headlights",
+      "cab for the driver, often separate from cargo area"
+    ],
+    [
+      "large boxy body",
+      "cargo bed or trailer",
+      "large wheels",
+      "high ground clearance",
+      "prominent front grille",
+      "cab for the driver",
+      "headlights and side mirrors"
+    ]
+  ]
+}

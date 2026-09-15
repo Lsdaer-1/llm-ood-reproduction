@@ -1,0 +1,892 @@
+{
+  "airplane": [
+    [
+      "wings extending from the fuselage",
+      "jet engines or propellers",
+      "streamlined body shape",
+      "cockpit windows at the front",
+      "landing gear (wheels) visible or retracted",
+      "tail fin (vertical stabilizer) at the rear"
+    ],
+    [
+      "wings extending from the main body",
+      "streamlined fuselage (body)",
+      "jet engines or propellers",
+      "tail fin (vertical stabilizer) at the rear",
+      "landing gear (wheels) visible if on the ground",
+      "windows or cockpit visible on the front section"
+    ],
+    [
+      "wings extending from the main body",
+      "fuselage (long cylindrical body)",
+      "windows along the side of the fuselage",
+      "tail section with vertical and horizontal stabilizers",
+      "landing gear (wheels) visible when on the ground",
+      "jet engines or propellers attached to wings or fuselage",
+      "cockpit windows at the front"
+    ],
+    [
+      "wings extending from the fuselage",
+      "jet engines or propellers",
+      "cockpit windows at the front",
+      "landing gear (wheels) visible underneath",
+      "streamlined body shape designed for flight",
+      "tail fin (vertical stabilizer) at the rear"
+    ],
+    [
+      "wings extending from the sides",
+      "a streamlined fuselage (body)",
+      "engines often visible under wings or attached to fuselage",
+      "tail section with vertical and horizontal stabilizers",
+      "landing gear (wheels) visible if on the ground",
+      "cockpit windows near the front of the fuselage"
+    ],
+    [
+      "Wings extending from the sides of the body",
+      "Fuselage (main body) typically long and cylindrical",
+      "Jet engines or propellers attached to wings or fuselage",
+      "Cockpit windows near the front",
+      "Tail section with vertical and horizontal stabilizers (tail fins)",
+      "Landing gear underneath the body or wings",
+      "Smooth, metallic or painted surface"
+    ],
+    [
+      "wings extending from the main body",
+      "engines mounted on wings or fuselage",
+      "cockpit windows at the front",
+      "landing gear (wheels) visible in some cases",
+      "streamlined, aerodynamic shape",
+      "tail fin (vertical stabilizer) at the rear",
+      "often metallic or painted surface with airline logos or markings"
+    ],
+    [
+      "wings extending from the sides",
+      "fuselage (main body) with windows or doors",
+      "jet engines or propellers",
+      "landing gear (wheels) visible or retracted",
+      "cockpit windows at the front",
+      "tail fin or vertical stabilizer at the rear"
+    ],
+    [
+      "A: There are several useful visual features to tell there is an airplane in a photo:",
+      "wings extending from the fuselage",
+      "engines attached to the wings or body",
+      "streamlined, elongated body (fuselage)",
+      "cockpit windows at the front",
+      "landing gear (wheels) visible in some photos",
+      "tail fin (vertical stabilizer) at the rear"
+    ],
+    [
+      "Wings extending from the central body",
+      "Fuselage (long cylindrical body)",
+      "Windows or cockpit at the front",
+      "Jet engines or propellers attached to the wings or body",
+      "Landing gear (wheels) visible beneath the body",
+      "Tail section with vertical and horizontal stabilizers",
+      "Smooth, metallic or painted surface"
+    ]
+  ],
+  "automobile": [
+    [
+      "wheels with tires",
+      "headlights and taillights",
+      "windows and mirrors",
+      "doors and door handles",
+      "a front grille or bumper",
+      "license plates",
+      "a distinct body shape (such as sedan, SUV, or truck)"
+    ],
+    [
+      "wheels (typically four)",
+      "headlights and taillights",
+      "windows and windshield",
+      "side mirrors",
+      "doors and door handles",
+      "license plate",
+      "distinct body shape (varies by model but generally aerodynamic)",
+      "visible grille or front bumper"
+    ],
+    [
+      "A: There are several useful visual features to tell there is an automobile in a photo:",
+      "wheels with tires",
+      "headlights and taillights",
+      "windows and windshield",
+      "side mirrors",
+      "body shape with doors and hood",
+      "license plate (sometimes)",
+      "visible exhaust or grille at the front"
+    ],
+    [
+      "wheels (usually four)",
+      "windows (front windshield, side windows)",
+      "headlights and taillights",
+      "side mirrors",
+      "doors and handles",
+      "license plates",
+      "distinct body shape with a roof and chassis"
+    ],
+    [
+      "wheels (usually four)",
+      "headlights and taillights",
+      "windows and windshield",
+      "side mirrors",
+      "doors and handles",
+      "license plate",
+      "distinct body shape with a chassis and roof"
+    ],
+    [
+      "wheels with tires",
+      "headlights and taillights",
+      "windows and windshield",
+      "side mirrors",
+      "doors and door handles",
+      "license plate",
+      "a grill or front bumper",
+      "overall shape resembling a vehicle body"
+    ],
+    [
+      "A: There are several useful visual features to tell there is an automobile in a photo:",
+      "wheels with tires",
+      "a structured body with doors and windows",
+      "headlights and taillights",
+      "side mirrors",
+      "a grille or front bumper",
+      "often a recognizable shape such as a sedan, SUV, or truck silhouette"
+    ],
+    [
+      "wheels with tires",
+      "windows and windshield",
+      "headlights and taillights",
+      "side mirrors",
+      "doors and handles",
+      "a distinct car body shape (e.g., sedan, SUV, truck)",
+      "license plate"
+    ],
+    [
+      "wheels with tires",
+      "windows and windshield",
+      "headlights and taillights",
+      "side mirrors",
+      "a defined body shape with doors and a roof",
+      "license plates"
+    ],
+    [
+      "wheels or tires",
+      "windows and windshield",
+      "headlights and taillights",
+      "side mirrors",
+      "doors and handles",
+      "metallic or painted body panels",
+      "license plate",
+      "exhaust pipe"
+    ]
+  ],
+  "bird": [
+    [
+      "feathers covering the body",
+      "beak or bill instead of teeth",
+      "wings, which may be folded or extended",
+      "two legs with clawed feet",
+      "often a distinct head shape with eyes on the sides or front",
+      "ability to perch on branches or other surfaces",
+      "sometimes visible patterns or colors on feathers"
+    ],
+    [
+      "beak or bill",
+      "feathers covering the body",
+      "wings",
+      "two legs with clawed feet",
+      "often visible tail feathers",
+      "upright posture or perching on branches"
+    ],
+    [
+      "feathers covering the body",
+      "beak (no teeth)",
+      "wings (often visible, even when folded)",
+      "two legs with claws or talons",
+      "often a streamlined body shape",
+      "presence of a tail made of feathers",
+      "upright posture or perching on branches or wires"
+    ],
+    [
+      "feathers covering the body",
+      "beak (no teeth)",
+      "wings (often visible even when folded)",
+      "two legs with clawed feet",
+      "generally small to medium size relative to surroundings",
+      "ability to be perched on branches or other elevated spots",
+      "some species may show distinctive plumage colors or patterns"
+    ],
+    [
+      "feathers covering the body",
+      "beak or bill instead of teeth",
+      "wings, often visible even when folded",
+      "two legs with clawed feet",
+      "generally small or medium size compared to mammals",
+      "often perched on branches or flying in the air"
+    ],
+    [
+      "feathers covering the body",
+      "beak instead of teeth or lips",
+      "wings, which may be folded or extended",
+      "two legs with clawed feet",
+      "often a streamlined body shape for flight",
+      "presence of tail feathers or a fan-shaped tail"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a bird in a photo:",
+      "feathers covering the body",
+      "beak or bill instead of teeth",
+      "wings, often visible folded along the sides or extended",
+      "two legs with clawed feet",
+      "often a streamlined body shape adapted for flight",
+      "presence of a tail with feathers used for balance and steering",
+      "bright or patterned plumage in many species"
+    ],
+    [
+      "feathers covering the body",
+      "beak (no teeth)",
+      "wings (often folded)",
+      "two legs with claws or talons",
+      "often a tail made of feathers",
+      "upright posture or perched stance"
+    ],
+    [
+      "feathers covering the body",
+      "beak or bill instead of teeth",
+      "wings, often visible or folded against the body",
+      "presence of claws or talons on feet",
+      "generally lightweight body structure",
+      "often perched on branches or flying in the air"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a bird in a photo:",
+      "feathers covering the body",
+      "beak or bill instead of teeth",
+      "wings, often visible either folded or extended",
+      "two legs with clawed feet",
+      "often a distinct shape of head and neck, sometimes with a crest or colorful markings",
+      "ability to be seen perched on branches or in flight"
+    ]
+  ],
+  "cat": [
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "slanted, almond-shaped eyes",
+      "retractable claws on paws",
+      "sleek, flexible body",
+      "often a long tail, sometimes curved or flicking",
+      "fur patterns and colors that vary widely (tabby, solid, striped, etc.)",
+      "distinct facial structure with a small nose and pronounced cheekbones"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "slit-shaped pupils in the eyes",
+      "retractable claws on paws",
+      "typically short fur with a variety of colors and patterns",
+      "a flexible, agile body shape",
+      "a long, slender tail"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "almond-shaped eyes",
+      "retractable claws on paws",
+      "sleek, flexible body",
+      "tail that can be long and expressive",
+      "fur patterns and colors that vary widely but often include stripes, spots, or solid colors"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "slitted, almond-shaped eyes",
+      "retractable claws on paws",
+      "a sleek, furry body with a variety of coat colors and patterns",
+      "a long, flexible tail",
+      "a distinct facial structure with a small nose and prominent cheekbones"
+    ],
+    [
+      "pointed ears",
+      "whiskers on the face",
+      "retractable claws on paws",
+      "typically short fur (though can vary by breed)",
+      "slitted vertical pupils in the eyes",
+      "agile body with a flexible spine",
+      "a tail that can be long or short, often held upright or curved"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "furry bodies with short to medium-length fur",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "almond-shaped eyes, which can vary in color",
+      "a flexible, often curved tail",
+      "a small to medium-sized snout with a distinct nose",
+      "retractable claws on paws"
+    ],
+    [
+      "furry bodies with a variety of coat colors and patterns (e.g., solid, striped, spotted)",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "sharp, almond-shaped eyes",
+      "retractable claws on paws",
+      "typically a shorter tail compared to a lemur, sometimes curled or straight",
+      "small to medium size body shape with flexible limbs"
+    ],
+    [
+      "pointed ears",
+      "whiskers",
+      "retractable claws (though not always visible)",
+      "sharp, almond-shaped eyes",
+      "a sleek, flexible body",
+      "fur patterns such as stripes, spots, or solid colors",
+      "a long tail often held upright or curved"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "slitted pupils in the eyes",
+      "flexible, agile body posture",
+      "fur with a variety of patterns and colors",
+      "sharp, retractable claws",
+      "a tail that varies in length and shape but is often held upright or curved"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a cat in a photo:",
+      "pointed ears, often upright",
+      "whiskers on the face",
+      "slitted, almond-shaped eyes",
+      "small nose and mouth",
+      "fur-covered body with varied patterns and colors",
+      "retractable claws on paws",
+      "a long, flexible tail"
+    ]
+  ],
+  "deer": [
+    [
+      "slender, graceful body",
+      "long legs",
+      "short tail",
+      "antlers (usually on males)",
+      "large, expressive eyes",
+      "pointed ears",
+      "a narrow face with a black nose",
+      "coat color ranging from reddish-brown to grayish-brown, often with white spots (especially in fawns)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a deer in a photo:",
+      "slender, graceful body",
+      "short tail",
+      "antlers (usually on males)",
+      "large, pointed ears",
+      "long legs",
+      "coat color ranging from reddish-brown to grayish-brown",
+      "white underside and tail (often visible when raised)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a deer in a photo:",
+      "slender, graceful body",
+      "long, slender legs",
+      "short tail",
+      "antlers (usually on males)",
+      "large, expressive eyes",
+      "pointed ears",
+      "coat colors ranging from reddish-brown to grayish-brown, often with white spots (especially in fawns)"
+    ],
+    [
+      "slender, graceful body",
+      "long, thin legs",
+      "short tail",
+      "antlers (typically on males)",
+      "large, pointed ears",
+      "brown or tan fur with possible white spots (especially in fawns)",
+      "large, dark eyes"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a deer in a photo:",
+      "slender, graceful body",
+      "long, slender legs",
+      "short tail",
+      "antlers (usually on males)",
+      "large, dark eyes",
+      "pointed ears",
+      "brown or reddish-brown fur with potential white spots (especially in fawns)",
+      "a white underside or tail underside in some species"
+    ],
+    [
+      "slender, graceful body",
+      "short fur, usually brown or reddish-brown with possible white spots",
+      "long, thin legs",
+      "large, pointed ears",
+      "short tail, often with a white underside",
+      "antlers (in many male deer species)",
+      "large, dark eyes with a gentle expression"
+    ],
+    [
+      "slender, graceful body",
+      "long, thin legs",
+      "short tail",
+      "antlers (on males, often branched)",
+      "large, expressive eyes and ears",
+      "typically brown or tan coat, sometimes with white spots (especially in fawns)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a deer in a photo:",
+      "slender legs",
+      "antlers (typically on males)",
+      "short tail",
+      "large, expressive eyes",
+      "a narrow, elongated face",
+      "a coat that is usually brown or reddish with white spots (depending on species and season)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a deer in a photo:",
+      "slender, graceful body with long legs",
+      "short tail, often white underneath",
+      "antlers (in males) that branch out from the head",
+      "large, pointed ears",
+      "a gentle, elongated face with a black nose",
+      "coat color that can range from reddish-brown to grayish, often with white spots in young deer (fawns)"
+    ],
+    [
+      "slender legs",
+      "antlers (usually on males)",
+      "short tail",
+      "large, expressive eyes",
+      "a narrow face with a pointed snout",
+      "a coat that can range from reddish-brown to grayish, often with white spots or patches depending on the species"
+    ]
+  ],
+  "dog": [
+    [
+      "A: There are several useful visual features to tell there is a dog in a photo:",
+      "furry body with various coat patterns and colors",
+      "four legs with paws and claws",
+      "distinctive snout or muzzle shape",
+      "floppy or pointed ears",
+      "visible nose and whiskers",
+      "expressive eyes often set forward",
+      "tail, which may be curled, straight, or bushy depending on the breed"
+    ],
+    [
+      "four legs with paws",
+      "fur coat, which can vary in length and color",
+      "distinct snout or muzzle",
+      "upright or floppy ears",
+      "visible nose, often moist and dark-colored",
+      "expressive eyes",
+      "tail, which may be curly, straight, or bushy",
+      "typical dog body shape, often muscular and proportionate"
+    ],
+    [
+      "furry bodies",
+      "four legs with paws",
+      "distinct snout or muzzle",
+      "medium to large eyes",
+      "ears that can be floppy or pointed",
+      "tail of varying length and shape",
+      "visible nose at the end of the snout",
+      "often a collar or tags (in domestic dogs)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a dog in a photo:",
+      "furry bodies, often covered in various coat colors and patterns",
+      "four legs with paws, typically with visible claws",
+      "distinct snout or muzzle shape, often elongated",
+      "prominent, expressive eyes",
+      "ears that can be upright, floppy, or semi-floppy depending on the breed",
+      "a tail that can vary in length and shape, often wagging",
+      "visible nose, usually moist and black"
+    ],
+    [
+      "furry body",
+      "four legs with paws",
+      "distinct snout or muzzle",
+      "upright or floppy ears",
+      "tail of varying length",
+      "expressive eyes often with visible whites",
+      "diverse coat colors and patterns depending on breed"
+    ],
+    [
+      "furry bodies with various coat patterns and colors",
+      "distinct snout and nose shape (usually elongated with a moist nose)",
+      "upright or floppy ears",
+      "visible paws with claws",
+      "expressive eyes often showing alertness or playfulness",
+      "tail that can be wagging, curled, or straight",
+      "generally quadrupedal stance with muscular limbs"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a dog in a photo:",
+      "furry bodies with various coat textures and colors",
+      "distinct snout or muzzle shape",
+      "prominent ears, which can be floppy or erect depending on breed",
+      "visible paws with claws",
+      "expressive eyes often positioned more forward on the face",
+      "typically a wagging tail, which can vary in length and shape"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a dog in a photo:",
+      "furry bodies with varied coat lengths and colors",
+      "a snout or muzzle with a distinct nose shape",
+      "visible ears that can be floppy, pointed, or rounded",
+      "expressive eyes often set forward on the face",
+      "a tail that can vary in length and shape (curled, straight, bushy)",
+      "paws with visible claws or pads"
+    ],
+    [
+      "furry bodies",
+      "four legs with paws",
+      "floppy or pointed ears",
+      "visible snout or nose",
+      "wagging tail or tail held upright",
+      "variety of sizes and coat patterns",
+      "expressive eyes with a friendly or alert look"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a dog in a photo:",
+      "furry bodies with various coat patterns and colors",
+      "floppy or pointed ears",
+      "snout or muzzle shape with visible nose",
+      "visible tongue or teeth when mouth is open",
+      "four legs with paws",
+      "tail that can be straight, curled, or wagging",
+      "expressive eyes often showing alertness or friendliness"
+    ]
+  ],
+  "frog": [
+    [
+      "smooth, moist skin",
+      "webbed feet",
+      "bulging eyes",
+      "compact, squat body shape",
+      "often green or brown coloration"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "smooth, moist skin",
+      "large, protruding eyes",
+      "webbed feet",
+      "short, squat body",
+      "long, powerful hind legs"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "smooth, moist skin",
+      "large, bulging eyes",
+      "webbed feet",
+      "compact, squat body shape",
+      "often bright or camouflaged coloration depending on species"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "Smooth, moist skin",
+      "Bulging, round eyes",
+      "Webbed feet",
+      "Short body with long, strong hind legs",
+      "Often bright or camouflaged coloration depending on species"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "smooth, often shiny skin",
+      "large, bulging eyes",
+      "webbed feet",
+      "compact body with short limbs",
+      "typically vibrant or camouflaged coloration"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "smooth, moist skin",
+      "wide, flat body shape",
+      "prominent, bulging eyes",
+      "long, powerful hind legs for jumping",
+      "webbed feet",
+      "often green or brown coloration with spots or patterns"
+    ],
+    [
+      "smooth, moist skin",
+      "large, bulging eyes",
+      "webbed feet",
+      "squat, rounded body",
+      "long hind legs adapted for jumping"
+    ],
+    [
+      "smooth, moist skin",
+      "compact body with short limbs",
+      "large, protruding eyes",
+      "webbed feet",
+      "wide mouth"
+    ],
+    [
+      "smooth, moist skin",
+      "large, bulging eyes",
+      "webbed feet",
+      "compact, squat body shape",
+      "long hind legs adapted for jumping"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a frog in a photo:",
+      "smooth, moist skin",
+      "webbed feet",
+      "bulging eyes",
+      "short body with no tail",
+      "strong, long hind legs for jumping"
+    ]
+  ],
+  "horse": [
+    [
+      "A: There are several useful visual features to tell there is a horse in a photo:",
+      "large, muscular body with a smooth coat",
+      "long legs with hooves",
+      "long face with large nostrils and eyes on the sides of the head",
+      "mane running along the neck",
+      "long tail with flowing hair"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face with a broad forehead",
+      "mane running along the neck",
+      "long tail with flowing hair",
+      "typically solid or patterned coat colors (e.g., bay, chestnut, black, gray)"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a horse in a photo:",
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face with a broad forehead and large nostrils",
+      "mane running along the neck",
+      "tail with long hair at the end"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "long mane and tail",
+      "elongated face with large nostrils and eyes",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "long mane and tail",
+      "elongated face with large nostrils",
+      "upright ears"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a horse in a photo:",
+      "muscular body with a smooth coat",
+      "long legs with hooves",
+      "long mane and tail",
+      "elongated face with large nostrils and eyes",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face with a prominent nose",
+      "mane running along the neck",
+      "tail with long hair at the end"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a horse in a photo:",
+      "large, muscular body",
+      "long legs with hooves",
+      "flowing mane and tail",
+      "elongated face with large nostrils",
+      "upright ears"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face with a prominent muzzle",
+      "mane running along the neck",
+      "tail with long hair at the end",
+      "upright ears that can swivel"
+    ],
+    [
+      "large, muscular body",
+      "long legs with hooves",
+      "elongated face with a broad forehead",
+      "mane along the neck",
+      "tail with long hair at the end",
+      "typically short fur covering the body"
+    ]
+  ],
+  "ship": [
+    [
+      "A: There are several useful visual features to tell there is a ship in a photo:",
+      "large hull or body floating on water",
+      "visible deck or superstructure",
+      "presence of masts, smokestacks, or antennas",
+      "often surrounded by water or docked at a pier",
+      "sometimes visible lifeboats or cargo containers"
+    ],
+    [
+      "A: There are several useful visual features to tell there is a ship in a photo:",
+      "large hull or body floating on water",
+      "deck structures such as cabins, masts, or cranes",
+      "visible smokestacks or funnels (for some ships)",
+      "presence of sails (for sailing ships)",
+      "often surrounded by water or docked at a port",
+      "navigation lights or antennas on top"
+    ],
+    [
+      "large size and structure floating on water",
+      "visible hull and deck",
+      "presence of masts, sails, or smokestacks (depending on ship type)",
+      "windows, railings, and lifeboats",
+      "often surrounded by water in the background"
+    ],
+    [
+      "large hull structure",
+      "presence of decks and cabins",
+      "visible smokestacks or masts",
+      "waterline or surrounding water",
+      "navigation lights or radar equipment",
+      "often a bow (front) and stern (rear) shape distinct to vessels"
+    ],
+    [
+      "large hull or body floating on water",
+      "visible deck and superstructure",
+      "presence of masts, smokestacks, or antennas",
+      "often has windows or portholes along the sides",
+      "may have visible cargo containers or lifeboats",
+      "usually shows a wake or disturbance in the water behind it"
+    ],
+    [
+      "large structure floating on water",
+      "visible deck or multiple levels",
+      "hull shape designed for water navigation",
+      "presence of masts, smokestacks, or antennas",
+      "often visible railings, lifeboats, or cargo containers",
+      "size scale indicating a large vehicle compared to surrounding environment"
+    ],
+    [
+      "large hull or body floating on water",
+      "visible deck or superstructure",
+      "presence of masts, smokestacks, or antennas",
+      "often has windows or portholes along the sides",
+      "may have sails (for sailing ships) or cranes and containers (for cargo ships)",
+      "typically appears surrounded by water or docked at a pier"
+    ],
+    [
+      "large hull or body floating on water",
+      "visible deck and superstructure",
+      "presence of masts, smokestacks, or cranes",
+      "often surrounded by water or docked at a port",
+      "may have visible windows, lifeboats, or railings"
+    ],
+    [
+      "large hull or body floating on water",
+      "visible deck or superstructure with cabins or bridge",
+      "presence of smokestacks or masts",
+      "often surrounded by water or docked at a pier",
+      "sometimes visible cargo containers or sails depending on ship type"
+    ],
+    [
+      "large hull or body floating on water",
+      "visible deck structures such as cabins, masts, or smokestacks",
+      "presence of sails or rigging (for sailing ships)",
+      "often has railings or lifeboats along the sides",
+      "may have visible antennas or radar equipment",
+      "waterline or wake indicating movement through water"
+    ]
+  ],
+  "truck": [
+    [
+      "A: There are several useful visual features to tell there is a truck in a photo:",
+      "large, boxy body",
+      "prominent wheels, often with thick tires",
+      "front cab with windshield and side mirrors",
+      "cargo area or flatbed at the back",
+      "headlights and grille at the front",
+      "often larger size compared to regular cars"
+    ],
+    [
+      "large, boxy body or cargo area",
+      "multiple wheels, often more than four",
+      "prominent front grille and headlights",
+      "elevated ground clearance",
+      "side mirrors extending outward",
+      "heavy-duty bumpers and chassis"
+    ],
+    [
+      "large size and bulky shape",
+      "a cab for the driver separate from the cargo area",
+      "large wheels, often with thick tires",
+      "a cargo bed or container for carrying goods",
+      "headlights and side mirrors",
+      "often a front grille and bumper",
+      "visible license plate and sometimes company logos or markings"
+    ],
+    [
+      "large size and bulky shape",
+      "visible cargo area or flatbed",
+      "multiple large wheels, often with heavy-duty tires",
+      "prominent front grille and headlights",
+      "side mirrors extending outward",
+      "elevated cabin height compared to regular cars",
+      "sometimes visible company logos or markings on the doors or cargo area"
+    ],
+    [
+      "large size and bulky shape",
+      "presence of a cargo area or flatbed",
+      "large wheels, often with thick tires",
+      "a cab with a windshield and side mirrors",
+      "headlights and a grill at the front",
+      "often metallic or painted exterior",
+      "sometimes visible license plates or company logos"
+    ],
+    [
+      "large, boxy body",
+      "multiple wheels, often with large tires",
+      "cargo area or flatbed at the back",
+      "prominent front grille and headlights",
+      "elevated ground clearance",
+      "side mirrors extending outward"
+    ],
+    [
+      "large size and bulky structure",
+      "visible cargo area or flatbed at the back",
+      "multiple large wheels, often more than four",
+      "prominent front grille and headlights",
+      "high ground clearance",
+      "side mirrors extending outward",
+      "often a cab separate from the cargo area"
+    ],
+    [
+      "large size and bulky structure",
+      "large wheels and tires",
+      "cargo area or flatbed at the back",
+      "prominent front grille and headlights",
+      "side mirrors extending outward",
+      "often boxy or rectangular shape",
+      "visible exhaust pipes or heavy-duty bumpers"
+    ],
+    [
+      "large size and bulky build",
+      "wheels (usually 4 or more)",
+      "cargo area or flatbed at the back",
+      "prominent front grille and headlights",
+      "side mirrors extending outward",
+      "often higher ground clearance compared to cars",
+      "visible exhaust pipe or chimney (especially for trucks)",
+      "sometimes company logos or markings on the body"
+    ],
+    [
+      "large size and bulky shape",
+      "visible cargo area or bed",
+      "large wheels and tires",
+      "prominent front grille and headlights",
+      "side mirrors often extend outward",
+      "often has a cab with multiple doors or a large windshield"
+    ]
+  ]
+}

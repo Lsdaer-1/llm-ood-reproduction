@@ -1,0 +1,210 @@
+[
+  {
+    "class_name": "Caracal caracal caracal",
+    "num_images": 100,
+    "mean_mcm": 0.27683377265930176,
+    "std_mcm": 0.028385467080911712,
+    "max_mcm": 0.35296639800071716,
+    "closest_pet_class": "abyssinian"
+  },
+  {
+    "class_name": "dendrolagus_lumholtzi",
+    "num_images": 100,
+    "mean_mcm": 0.24289076283574104,
+    "std_mcm": 0.01453826294035262,
+    "max_mcm": 0.28523877263069153,
+    "closest_pet_class": "siamese"
+  },
+  {
+    "class_name": "sarpa_salpa",
+    "num_images": 100,
+    "mean_mcm": 0.23412856534123422,
+    "std_mcm": 0.015071243846398085,
+    "max_mcm": 0.2696353793144226,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "ozotoceros_bezoarticus",
+    "num_images": 82,
+    "mean_mcm": 0.23408045092733895,
+    "std_mcm": 0.018466533936818574,
+    "max_mcm": 0.320595920085907,
+    "closest_pet_class": "abyssinian"
+  },
+  {
+    "class_name": "tapirus_bairdii",
+    "num_images": 100,
+    "mean_mcm": 0.2340502043068409,
+    "std_mcm": 0.017947707375633882,
+    "max_mcm": 0.29275888204574585,
+    "closest_pet_class": "staffordshire bull terrier"
+  },
+  {
+    "class_name": "ctenolepisma_longicaudata",
+    "num_images": 100,
+    "mean_mcm": 0.229065710157156,
+    "std_mcm": 0.010654555031584868,
+    "max_mcm": 0.25509771704673767,
+    "closest_pet_class": "persian"
+  },
+  {
+    "class_name": "haemulon_sciurus",
+    "num_images": 96,
+    "mean_mcm": 0.2269592840845386,
+    "std_mcm": 0.015990605954079914,
+    "max_mcm": 0.27420663833618164,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "arctocephalus_galapagoensis",
+    "num_images": 91,
+    "mean_mcm": 0.22540211743050878,
+    "std_mcm": 0.01557565389023119,
+    "max_mcm": 0.26700639724731445,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "tursiops_aduncus",
+    "num_images": 100,
+    "mean_mcm": 0.222629127651453,
+    "std_mcm": 0.013810398850907818,
+    "max_mcm": 0.24850492179393768,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "platycephalus_fuscus",
+    "num_images": 100,
+    "mean_mcm": 0.22230153918266296,
+    "std_mcm": 0.012705168799028074,
+    "max_mcm": 0.255649209022522,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "lasionycteris_noctivagans",
+    "num_images": 99,
+    "mean_mcm": 0.22191324243039795,
+    "std_mcm": 0.018040074600362777,
+    "max_mcm": 0.2708682119846344,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "araneus_gemma",
+    "num_images": 100,
+    "mean_mcm": 0.22098919585347176,
+    "std_mcm": 0.012636214782773643,
+    "max_mcm": 0.2568880319595337,
+    "closest_pet_class": "persian"
+  },
+  {
+    "class_name": "sepia_officinalis",
+    "num_images": 100,
+    "mean_mcm": 0.22075255408883096,
+    "std_mcm": 0.01484661869339509,
+    "max_mcm": 0.2585969567298889,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "pseudorca_crassidens",
+    "num_images": 66,
+    "mean_mcm": 0.22070767572431854,
+    "std_mcm": 0.013898036915624629,
+    "max_mcm": 0.2524568736553192,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "hippopus_hippopus",
+    "num_images": 31,
+    "mean_mcm": 0.220636825407705,
+    "std_mcm": 0.013018600522282793,
+    "max_mcm": 0.2535920739173889,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "sepioteuthis_australis",
+    "num_images": 99,
+    "mean_mcm": 0.220582241662825,
+    "std_mcm": 0.014952379918645271,
+    "max_mcm": 0.26688915491104126,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "skipper_caterpillar",
+    "num_images": 100,
+    "mean_mcm": 0.21983948603272438,
+    "std_mcm": 0.01588582081852438,
+    "max_mcm": 0.25650691986083984,
+    "closest_pet_class": "siamese"
+  },
+  {
+    "class_name": "sepia_apama",
+    "num_images": 99,
+    "mean_mcm": 0.21735760659882516,
+    "std_mcm": 0.01461120319671876,
+    "max_mcm": 0.253431499004364,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "triturus_marmoratus",
+    "num_images": 100,
+    "mean_mcm": 0.21575331687927246,
+    "std_mcm": 0.01281696235895503,
+    "max_mcm": 0.24378444254398346,
+    "closest_pet_class": "persian"
+  },
+  {
+    "class_name": "lepomis_auritus",
+    "num_images": 100,
+    "mean_mcm": 0.21521790012717246,
+    "std_mcm": 0.011110361319298271,
+    "max_mcm": 0.24940158426761627,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "amphiuma_means",
+    "num_images": 176,
+    "mean_mcm": 0.21028716311874715,
+    "std_mcm": 0.015423246887937626,
+    "max_mcm": 0.2591417729854584,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "leptoglossus_phyllopus",
+    "num_images": 100,
+    "mean_mcm": 0.2100273172557354,
+    "std_mcm": 0.016624558465414555,
+    "max_mcm": 0.24944621324539185,
+    "closest_pet_class": "german shorthaired"
+  },
+  {
+    "class_name": "polistes_dominula",
+    "num_images": 100,
+    "mean_mcm": 0.20836191534996032,
+    "std_mcm": 0.011501931602038306,
+    "max_mcm": 0.23650848865509033,
+    "closest_pet_class": "german shorthaired"
+  },
+  {
+    "class_name": "octopus_bimaculoides",
+    "num_images": 100,
+    "mean_mcm": 0.20544707968831064,
+    "std_mcm": 0.016373099082315688,
+    "max_mcm": 0.24839487671852112,
+    "closest_pet_class": "bombay"
+  },
+  {
+    "class_name": "octopus_rubescens",
+    "num_images": 100,
+    "mean_mcm": 0.2053525713086128,
+    "std_mcm": 0.015133299993113955,
+    "max_mcm": 0.24903427064418793,
+    "closest_pet_class": "basset hound"
+  },
+  {
+    "class_name": "batrachoseps_attenuatus",
+    "num_images": 100,
+    "mean_mcm": 0.20467976227402687,
+    "std_mcm": 0.012918546324924481,
+    "max_mcm": 0.2420150637626648,
+    "closest_pet_class": "boxer"
+  }
+]

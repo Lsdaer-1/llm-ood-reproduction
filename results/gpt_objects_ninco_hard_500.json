@@ -1,0 +1,4381 @@
+{
+  "0": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "deer",
+      "grass",
+      "house",
+      "hill",
+      "tree"
+    ]
+  },
+  "1": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "tree",
+      "branch",
+      "leaf",
+      "vine",
+      "cat"
+    ]
+  },
+  "2": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "tree",
+      "branch",
+      "flower",
+      "path"
+    ]
+  },
+  "3": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "grass",
+      "tree branch"
+    ]
+  },
+  "4": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "5": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "leaf",
+      "branch",
+      "ground",
+      "tree"
+    ]
+  },
+  "6": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fence",
+      "tree",
+      "dog",
+      "shed"
+    ]
+  },
+  "7": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "ground",
+      "leaf"
+    ]
+  },
+  "8": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "car",
+      "grass"
+    ]
+  },
+  "9": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "collar",
+      "grass",
+      "plant",
+      "stick"
+    ]
+  },
+  "10": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "bush",
+      "grass"
+    ]
+  },
+  "11": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "rock",
+      "branch",
+      "shrub",
+      "tree"
+    ]
+  },
+  "12": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "duck",
+      "grass",
+      "road",
+      "tree",
+      "branch"
+    ]
+  },
+  "13": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "grass"
+    ]
+  },
+  "14": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "15": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "coyote",
+      "rock",
+      "plant",
+      "camera"
+    ]
+  },
+  "16": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "dog",
+      "bush",
+      "plant",
+      "wall",
+      "hill"
+    ]
+  },
+  "17": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "rock",
+      "branch",
+      "grass",
+      "sky"
+    ]
+  },
+  "18": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "collar",
+      "plant",
+      "ground",
+      "branch"
+    ]
+  },
+  "19": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "20": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass",
+      "collar",
+      "tree",
+      "sky"
+    ]
+  },
+  "21": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "road",
+      "plant",
+      "flower"
+    ]
+  },
+  "22": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "bobcat",
+      "tree",
+      "vineyard",
+      "soil",
+      "rock"
+    ]
+  },
+  "23": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "rock",
+      "tree",
+      "branch",
+      "bush"
+    ]
+  },
+  "24": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "25": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "fence",
+      "tree",
+      "grass",
+      "path"
+    ]
+  },
+  "26": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "water",
+      "rock",
+      "sand",
+      "antler"
+    ]
+  },
+  "27": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "canine",
+      "shrub"
+    ]
+  },
+  "28": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "rock",
+      "plant",
+      "branch"
+    ]
+  },
+  "29": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "30": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "rock",
+      "tree"
+    ]
+  },
+  "31": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "tree",
+      "branch",
+      "leaf"
+    ]
+  },
+  "32": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass",
+      "rock",
+      "flower",
+      "bush"
+    ]
+  },
+  "33": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "plant",
+      "soil"
+    ]
+  },
+  "34": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "dog",
+      "plant",
+      "ground"
+    ]
+  },
+  "35": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "stone",
+      "leaf",
+      "branch",
+      "bush"
+    ]
+  },
+  "36": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "bush",
+      "grass",
+      "tree",
+      "soil"
+    ]
+  },
+  "37": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "cage",
+      "rope"
+    ]
+  },
+  "38": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "39": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "40": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "41": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "tree",
+      "grass",
+      "bush"
+    ]
+  },
+  "42": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "bird"
+    ]
+  },
+  "43": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "dog",
+      "branch",
+      "leaf",
+      "tree",
+      "grass"
+    ]
+  },
+  "44": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "grass",
+      "bush"
+    ]
+  },
+  "45": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "46": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "antelope",
+      "plant",
+      "rock"
+    ]
+  },
+  "47": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "deer",
+      "stump",
+      "log",
+      "plant",
+      "soil"
+    ]
+  },
+  "48": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "log",
+      "plant",
+      "bush"
+    ]
+  },
+  "49": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "50": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "rock",
+      "grass",
+      "bush",
+      "stream"
+    ]
+  },
+  "51": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "wildcat",
+      "grass",
+      "soil",
+      "branch"
+    ]
+  },
+  "52": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "deer",
+      "rock",
+      "log",
+      "bush",
+      "shrub"
+    ]
+  },
+  "53": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "bush",
+      "rock",
+      "container",
+      "ground"
+    ]
+  },
+  "54": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "plant",
+      "ground"
+    ]
+  },
+  "55": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "stone",
+      "plant",
+      "tree",
+      "wire"
+    ]
+  },
+  "56": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "plant",
+      "rock"
+    ]
+  },
+  "57": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "58": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "tree",
+      "branch",
+      "leaf",
+      "rock",
+      "animal"
+    ]
+  },
+  "59": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "grass"
+    ]
+  },
+  "60": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "rock",
+      "plant"
+    ]
+  },
+  "61": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "bush",
+      "rock",
+      "grass"
+    ]
+  },
+  "62": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "rock",
+      "bush",
+      "caracal"
+    ]
+  },
+  "63": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "road",
+      "dog",
+      "rock",
+      "bush"
+    ]
+  },
+  "64": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "grass",
+      "fox"
+    ]
+  },
+  "65": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "antelope",
+      "grass",
+      "bush",
+      "tree",
+      "branch"
+    ]
+  },
+  "66": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cougar",
+      "grass",
+      "tree",
+      "branch",
+      "leaf"
+    ]
+  },
+  "67": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass"
+    ]
+  },
+  "68": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "road",
+      "cat",
+      "tree",
+      "bush"
+    ]
+  },
+  "69": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "tree",
+      "branch",
+      "leaf",
+      "bark"
+    ]
+  },
+  "70": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "branch",
+      "leaf"
+    ]
+  },
+  "71": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "72": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "grass"
+    ]
+  },
+  "73": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "74": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "75": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "plant",
+      "leaf",
+      "soil",
+      "grass"
+    ]
+  },
+  "76": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "77": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "78": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "tree",
+      "branch",
+      "caracal",
+      "sky"
+    ]
+  },
+  "79": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "80": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "81": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "tree",
+      "branch",
+      "leaf",
+      "soil"
+    ]
+  },
+  "82": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "83": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "branch",
+      "shrub",
+      "soil"
+    ]
+  },
+  "84": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "tree",
+      "rock",
+      "branch",
+      "ground"
+    ]
+  },
+  "85": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "deer",
+      "tree",
+      "fence",
+      "grass",
+      "branch"
+    ]
+  },
+  "86": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "kangaroo",
+      "tree",
+      "grass"
+    ]
+  },
+  "87": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "bush",
+      "soil"
+    ]
+  },
+  "88": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox"
+    ]
+  },
+  "89": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "tree",
+      "road",
+      "sky"
+    ]
+  },
+  "90": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "rock",
+      "bush",
+      "road",
+      "sign"
+    ]
+  },
+  "91": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "leaf",
+      "tree",
+      "branch",
+      "soil"
+    ]
+  },
+  "92": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass",
+      "branch",
+      "meat"
+    ]
+  },
+  "93": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "log",
+      "plant",
+      "leaf",
+      "grass"
+    ]
+  },
+  "94": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "leaf"
+    ]
+  },
+  "95": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "leaf",
+      "grass"
+    ]
+  },
+  "96": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "tree",
+      "grass",
+      "leaf",
+      "ground",
+      "cat"
+    ]
+  },
+  "97": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "plant",
+      "soil",
+      "rock",
+      "tree"
+    ]
+  },
+  "98": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "tree",
+      "grass",
+      "caracal"
+    ]
+  },
+  "99": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal"
+    ]
+  },
+  "100": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "fish",
+      "water",
+      "container",
+      "plant"
+    ]
+  },
+  "101": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "water"
+    ]
+  },
+  "102": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "sand"
+    ]
+  },
+  "103": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "crab pot",
+      "can",
+      "grass",
+      "water"
+    ]
+  },
+  "104": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "leaf",
+      "soil"
+    ]
+  },
+  "105": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "mud",
+      "grass",
+      "root",
+      "stick"
+    ]
+  },
+  "106": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "glove",
+      "earthworm",
+      "grass",
+      "soil"
+    ]
+  },
+  "107": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "grass",
+      "leech"
+    ]
+  },
+  "108": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "bucket",
+      "water",
+      "eel"
+    ]
+  },
+  "109": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "container"
+    ]
+  },
+  "110": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "tank",
+      "shirt"
+    ]
+  },
+  "111": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "boot",
+      "stick",
+      "net",
+      "dock"
+    ]
+  },
+  "112": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel"
+    ]
+  },
+  "113": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "rock",
+      "soil",
+      "grass"
+    ]
+  },
+  "114": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "glove",
+      "asphalt"
+    ]
+  },
+  "115": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "sand"
+    ]
+  },
+  "116": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "sand"
+    ]
+  },
+  "117": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "grass"
+    ]
+  },
+  "118": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "slug"
+    ]
+  },
+  "119": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "bucket"
+    ]
+  },
+  "120": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "leaf",
+      "rock"
+    ]
+  },
+  "121": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "leaf",
+      "soil"
+    ]
+  },
+  "122": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander"
+    ]
+  },
+  "123": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander"
+    ]
+  },
+  "124": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander",
+      "tree",
+      "hat",
+      "water"
+    ]
+  },
+  "125": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "fish"
+    ]
+  },
+  "126": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "soil",
+      "twig",
+      "branch"
+    ]
+  },
+  "127": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "container"
+    ]
+  },
+  "128": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "bucket",
+      "snake",
+      "water",
+      "grass",
+      "leaf"
+    ]
+  },
+  "129": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "aquarium",
+      "rock"
+    ]
+  },
+  "130": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "boot",
+      "eel",
+      "grass"
+    ]
+  },
+  "131": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "container",
+      "water",
+      "leaf",
+      "twig"
+    ]
+  },
+  "132": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "leaf",
+      "twig",
+      "net"
+    ]
+  },
+  "133": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "bucket",
+      "leaf",
+      "water",
+      "debris"
+    ]
+  },
+  "134": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "basket",
+      "pinecone",
+      "leaf",
+      "branch"
+    ]
+  },
+  "135": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "leaf",
+      "twig",
+      "water",
+      "algae"
+    ]
+  },
+  "136": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "glove",
+      "slug",
+      "grass",
+      "tree",
+      "sky"
+    ]
+  },
+  "137": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "rock",
+      "branch",
+      "soil"
+    ]
+  },
+  "138": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "container",
+      "worm"
+    ]
+  },
+  "139": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "grass",
+      "soil"
+    ]
+  },
+  "140": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian"
+    ]
+  },
+  "141": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander"
+    ]
+  },
+  "142": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "leaf",
+      "twig",
+      "soil",
+      "pine needle"
+    ]
+  },
+  "143": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "stick"
+    ]
+  },
+  "144": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm"
+    ]
+  },
+  "145": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "root",
+      "stick",
+      "soil"
+    ]
+  },
+  "146": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "slug",
+      "net"
+    ]
+  },
+  "147": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "branch",
+      "leaf"
+    ]
+  },
+  "148": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "slug",
+      "tree",
+      "grass"
+    ]
+  },
+  "149": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "twig",
+      "stone",
+      "soil"
+    ]
+  },
+  "150": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "plant",
+      "twig",
+      "soil"
+    ]
+  },
+  "151": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "bucket",
+      "leaves"
+    ]
+  },
+  "152": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water"
+    ]
+  },
+  "153": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake"
+    ]
+  },
+  "154": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "net",
+      "grass"
+    ]
+  },
+  "155": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "net",
+      "fish",
+      "grass"
+    ]
+  },
+  "156": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "arm",
+      "net",
+      "snake",
+      "frog",
+      "pond"
+    ]
+  },
+  "157": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "soil",
+      "leaf",
+      "stick"
+    ]
+  },
+  "158": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander"
+    ]
+  },
+  "159": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "moss",
+      "grass"
+    ]
+  },
+  "160": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "hand",
+      "soil"
+    ]
+  },
+  "161": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "net"
+    ]
+  },
+  "162": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "sand",
+      "plant"
+    ]
+  },
+  "163": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "plant",
+      "wood",
+      "rock",
+      "twig"
+    ]
+  },
+  "164": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "bucket"
+    ]
+  },
+  "165": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake"
+    ]
+  },
+  "166": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "glove",
+      "cane",
+      "tree",
+      "branch",
+      "water"
+    ]
+  },
+  "167": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "metal coil",
+      "metal mesh"
+    ]
+  },
+  "168": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "net",
+      "salamander"
+    ]
+  },
+  "169": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "net",
+      "grass"
+    ]
+  },
+  "170": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "stick"
+    ]
+  },
+  "171": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "wood"
+    ]
+  },
+  "172": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander",
+      "tree",
+      "water",
+      "leaf"
+    ]
+  },
+  "173": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "twig",
+      "soil",
+      "branch"
+    ]
+  },
+  "174": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "sand"
+    ]
+  },
+  "175": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "leaf",
+      "twig",
+      "stick",
+      "soil"
+    ]
+  },
+  "176": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "soil",
+      "leaf",
+      "twig",
+      "grass"
+    ]
+  },
+  "177": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "grass",
+      "leaf",
+      "flower",
+      "soil"
+    ]
+  },
+  "178": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "rock"
+    ]
+  },
+  "179": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "twig",
+      "leaf",
+      "grass",
+      "soil"
+    ]
+  },
+  "180": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "container"
+    ]
+  },
+  "181": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "hand",
+      "dog",
+      "grass",
+      "field"
+    ]
+  },
+  "182": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "leaf",
+      "stick",
+      "soil"
+    ]
+  },
+  "183": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "rock",
+      "grass"
+    ]
+  },
+  "184": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hose",
+      "leaf",
+      "pine needle",
+      "stick",
+      "soil"
+    ]
+  },
+  "185": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "net",
+      "leaf"
+    ]
+  },
+  "186": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "twig"
+    ]
+  },
+  "187": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "net"
+    ]
+  },
+  "188": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "sand"
+    ]
+  },
+  "189": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake"
+    ]
+  },
+  "190": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "fishing net",
+      "grass",
+      "mulch"
+    ]
+  },
+  "191": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "container",
+      "water",
+      "leaf",
+      "grass"
+    ]
+  },
+  "192": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "glass tank"
+    ]
+  },
+  "193": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "watch",
+      "eel",
+      "water",
+      "branch"
+    ]
+  },
+  "194": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "leaf",
+      "soil",
+      "plant"
+    ]
+  },
+  "195": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel"
+    ]
+  },
+  "196": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm",
+      "grass",
+      "leaf",
+      "stick",
+      "soil"
+    ]
+  },
+  "197": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "tree",
+      "leaf",
+      "stick",
+      "moss"
+    ]
+  },
+  "198": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "slug",
+      "branch",
+      "leaf",
+      "mud",
+      "water"
+    ]
+  },
+  "199": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water container"
+    ]
+  },
+  "200": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "grass",
+      "leaf",
+      "basket"
+    ]
+  },
+  "201": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "road"
+    ]
+  },
+  "202": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "plant",
+      "stick",
+      "branch",
+      "soil"
+    ]
+  },
+  "203": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "net",
+      "grass"
+    ]
+  },
+  "204": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "plastic container",
+      "rubber band"
+    ]
+  },
+  "205": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "bucket",
+      "water",
+      "salamander"
+    ]
+  },
+  "206": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "water"
+    ]
+  },
+  "207": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel"
+    ]
+  },
+  "208": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "container"
+    ]
+  },
+  "209": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "mud",
+      "branch",
+      "root",
+      "leaf"
+    ]
+  },
+  "210": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "worm"
+    ]
+  },
+  "211": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "fish",
+      "water"
+    ]
+  },
+  "212": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "water",
+      "turtle",
+      "plant",
+      "leaf",
+      "branch"
+    ]
+  },
+  "213": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "net"
+    ]
+  },
+  "214": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "person",
+      "fish",
+      "hand",
+      "jacket",
+      "shirt"
+    ]
+  },
+  "215": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "grass",
+      "pine needle"
+    ]
+  },
+  "216": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "leaf",
+      "twig",
+      "rock"
+    ]
+  },
+  "217": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "earthworm"
+    ]
+  },
+  "218": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "stick",
+      "leaf",
+      "grass",
+      "rock"
+    ]
+  },
+  "219": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "slug",
+      "grass",
+      "leaf",
+      "pinecone",
+      "twig"
+    ]
+  },
+  "220": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "grass",
+      "plastic tube"
+    ]
+  },
+  "221": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander",
+      "bottle",
+      "plastic bag",
+      "leaf"
+    ]
+  },
+  "222": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "rock",
+      "soil"
+    ]
+  },
+  "223": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "container"
+    ]
+  },
+  "224": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "pine needle",
+      "grass",
+      "soil",
+      "rock"
+    ]
+  },
+  "225": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "net",
+      "fish"
+    ]
+  },
+  "226": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "net",
+      "worm",
+      "hand"
+    ]
+  },
+  "227": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "water",
+      "leaf",
+      "plastic container",
+      "stick"
+    ]
+  },
+  "228": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "grass",
+      "branch"
+    ]
+  },
+  "229": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "grass",
+      "sand",
+      "stick",
+      "pine needle"
+    ]
+  },
+  "230": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "grass"
+    ]
+  },
+  "231": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "bucket",
+      "water",
+      "eel"
+    ]
+  },
+  "232": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "net",
+      "water"
+    ]
+  },
+  "233": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "net",
+      "twig",
+      "pebble",
+      "water"
+    ]
+  },
+  "234": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "sand",
+      "twig",
+      "soil"
+    ]
+  },
+  "235": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel"
+    ]
+  },
+  "236": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "worm"
+    ]
+  },
+  "237": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "basket",
+      "leaf",
+      "soil",
+      "grass"
+    ]
+  },
+  "238": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander"
+    ]
+  },
+  "239": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel"
+    ]
+  },
+  "240": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "salamander"
+    ]
+  },
+  "241": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "shark"
+    ]
+  },
+  "242": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "water",
+      "plastic container",
+      "plant"
+    ]
+  },
+  "243": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "plant"
+    ]
+  },
+  "244": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "container",
+      "water",
+      "eel",
+      "hand",
+      "plant"
+    ]
+  },
+  "245": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "plant",
+      "container"
+    ]
+  },
+  "246": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "leaf",
+      "water",
+      "container",
+      "twig"
+    ]
+  },
+  "247": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "tray",
+      "water",
+      "plant",
+      "shadow"
+    ]
+  },
+  "248": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "plastic container",
+      "leaf",
+      "rock",
+      "grass"
+    ]
+  },
+  "249": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "container",
+      "leaf",
+      "shadow"
+    ]
+  },
+  "250": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "water",
+      "shirt",
+      "shoe"
+    ]
+  },
+  "251": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "container",
+      "water",
+      "grass",
+      "leaf"
+    ]
+  },
+  "252": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "fish",
+      "water"
+    ]
+  },
+  "253": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "water",
+      "container",
+      "grass",
+      "soil"
+    ]
+  },
+  "254": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "water",
+      "container",
+      "leaf"
+    ]
+  },
+  "255": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "water"
+    ]
+  },
+  "256": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaves",
+      "water"
+    ]
+  },
+  "257": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "container",
+      "grass",
+      "water",
+      "leaf"
+    ]
+  },
+  "258": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "container",
+      "eel",
+      "leaf",
+      "human",
+      "shadow"
+    ]
+  },
+  "259": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf",
+      "grass",
+      "water",
+      "stick"
+    ]
+  },
+  "260": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "amphibian",
+      "leaf"
+    ]
+  },
+  "261": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "water",
+      "leaf",
+      "rock",
+      "soil"
+    ]
+  },
+  "262": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "tree",
+      "grass",
+      "lily pad",
+      "water"
+    ]
+  },
+  "263": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "net",
+      "leaf",
+      "twig"
+    ]
+  },
+  "264": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "salamander",
+      "arm",
+      "hand",
+      "leaf",
+      "sandalm"
+    ]
+  },
+  "265": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm",
+      "leaf",
+      "branch",
+      "grass",
+      "soil"
+    ]
+  },
+  "266": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "water"
+    ]
+  },
+  "267": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "leaf"
+    ]
+  },
+  "268": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "net",
+      "eel",
+      "stick",
+      "hand"
+    ]
+  },
+  "269": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake"
+    ]
+  },
+  "270": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "fish",
+      "water",
+      "bowl"
+    ]
+  },
+  "271": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "fish",
+      "shirt"
+    ]
+  },
+  "272": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "eel",
+      "plastic container"
+    ]
+  },
+  "273": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "earthworm"
+    ]
+  },
+  "274": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "hand",
+      "eel",
+      "grass",
+      "foot",
+      "shoe"
+    ]
+  },
+  "275": {
+    "label": 1,
+    "class_name": "amphiuma_means",
+    "objects": [
+      "snake",
+      "stick",
+      "grass",
+      "tree"
+    ]
+  },
+  "276": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "277": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "bacterium"
+    ]
+  },
+  "278": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom",
+      "fiber",
+      "spore",
+      "cell",
+      "bubble"
+    ]
+  },
+  "279": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "280": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "281": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "282": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "283": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "alga"
+    ]
+  },
+  "284": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "285": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "286": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "287": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "288": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "289": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "290": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "291": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae",
+      "fish"
+    ]
+  },
+  "292": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "alga"
+    ]
+  },
+  "293": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "294": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "295": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair strand",
+      "cell"
+    ]
+  },
+  "296": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "297": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "dust particle"
+    ]
+  },
+  "298": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "299": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "300": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "301": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "302": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "303": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "304": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "305": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "306": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "307": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "308": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "309": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "filament"
+    ]
+  },
+  "310": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber",
+      "microorganism"
+    ]
+  },
+  "311": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "312": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "alga"
+    ]
+  },
+  "313": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "bird"
+    ]
+  },
+  "314": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "315": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "diatom"
+    ]
+  },
+  "316": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "317": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "fiber"
+    ]
+  },
+  "318": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "scratch"
+    ]
+  },
+  "319": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "320": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "hair"
+    ]
+  },
+  "321": {
+    "label": 2,
+    "class_name": "aphanizomenon_flosaquae",
+    "objects": [
+      "algae"
+    ]
+  },
+  "322": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "323": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "crab",
+      "tree bark"
+    ]
+  },
+  "324": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "plastic cup"
+    ]
+  },
+  "325": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "326": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "327": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wall"
+    ]
+  },
+  "328": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "petri dish"
+    ]
+  },
+  "329": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "branch"
+    ]
+  },
+  "330": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "331": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "rock"
+    ]
+  },
+  "332": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "branch"
+    ]
+  },
+  "333": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "334": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "twig",
+      "web"
+    ]
+  },
+  "335": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wall"
+    ]
+  },
+  "336": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "337": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "fabric"
+    ]
+  },
+  "338": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "branch"
+    ]
+  },
+  "339": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "rock"
+    ]
+  },
+  "340": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "metal surface",
+      "leaf"
+    ]
+  },
+  "341": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "headstone",
+      "grass"
+    ]
+  },
+  "342": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "343": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "plant"
+    ]
+  },
+  "344": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "345": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "346": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "tree bark"
+    ]
+  },
+  "347": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "insect",
+      "leaf",
+      "finger"
+    ]
+  },
+  "348": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "insect",
+      "stone"
+    ]
+  },
+  "349": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "okra",
+      "leaf",
+      "stem",
+      "branch"
+    ]
+  },
+  "350": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "shadow"
+    ]
+  },
+  "351": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "352": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "metal beam"
+    ]
+  },
+  "353": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "stem",
+      "twig"
+    ]
+  },
+  "354": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wall"
+    ]
+  },
+  "355": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "plastic container",
+      "wood"
+    ]
+  },
+  "356": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "357": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "insect",
+      "tree"
+    ]
+  },
+  "358": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "crab",
+      "concrete"
+    ]
+  },
+  "359": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "360": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "hand",
+      "plant",
+      "flower"
+    ]
+  },
+  "361": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "bench",
+      "road",
+      "tree",
+      "leaf"
+    ]
+  },
+  "362": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "363": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "364": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "flower",
+      "stem",
+      "leaf"
+    ]
+  },
+  "365": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "rock",
+      "leaf"
+    ]
+  },
+  "366": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "hand",
+      "spider",
+      "arm",
+      "wall",
+      "doorbell"
+    ]
+  },
+  "367": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web",
+      "wood"
+    ]
+  },
+  "368": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "surface"
+    ]
+  },
+  "369": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "stone",
+      "twig",
+      "soil"
+    ]
+  },
+  "370": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "tree",
+      "branch",
+      "web"
+    ]
+  },
+  "371": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "branch",
+      "leaf",
+      "insect shell",
+      "rock",
+      "twig"
+    ]
+  },
+  "372": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "rock"
+    ]
+  },
+  "373": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "leaf",
+      "spider",
+      "branch"
+    ]
+  },
+  "374": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "brick",
+      "cement"
+    ]
+  },
+  "375": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "376": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "377": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "378": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "379": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "380": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "381": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "stone"
+    ]
+  },
+  "382": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "383": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "384": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "385": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "386": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wall"
+    ]
+  },
+  "387": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web",
+      "insect",
+      "tree",
+      "branch"
+    ]
+  },
+  "388": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "concrete"
+    ]
+  },
+  "389": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "390": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "leaf",
+      "soil",
+      "spider",
+      "stick",
+      "rock"
+    ]
+  },
+  "391": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "392": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "branch",
+      "wall",
+      "window"
+    ]
+  },
+  "393": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wall"
+    ]
+  },
+  "394": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "395": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "396": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "397": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf"
+    ]
+  },
+  "398": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "399": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "branch"
+    ]
+  },
+  "400": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wood"
+    ]
+  },
+  "401": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web",
+      "wall"
+    ]
+  },
+  "402": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "403": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "404": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "branch",
+      "web"
+    ]
+  },
+  "405": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "leaf",
+      "crab"
+    ]
+  },
+  "406": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "407": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "tick",
+      "plastic container",
+      "arm"
+    ]
+  },
+  "408": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "wood"
+    ]
+  },
+  "409": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "web"
+    ]
+  },
+  "410": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "411": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "412": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "towel"
+    ]
+  },
+  "413": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "branch"
+    ]
+  },
+  "414": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "bottle cap"
+    ]
+  },
+  "415": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "metal pole",
+      "sticker"
+    ]
+  },
+  "416": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "stem"
+    ]
+  },
+  "417": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "rock",
+      "stick"
+    ]
+  },
+  "418": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "leaf",
+      "stone"
+    ]
+  },
+  "419": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "420": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider"
+    ]
+  },
+  "421": {
+    "label": 3,
+    "class_name": "araneus_gemma",
+    "objects": [
+      "spider",
+      "hand",
+      "road",
+      "sidewalk",
+      "curb"
+    ]
+  },
+  "422": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "423": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "424": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal"
+    ]
+  },
+  "425": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal"
+    ]
+  },
+  "426": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "427": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "428": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "429": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal"
+    ]
+  },
+  "430": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal"
+    ]
+  },
+  "431": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "432": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "rock",
+      "seal"
+    ]
+  },
+  "433": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "434": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "435": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "436": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "437": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "rock",
+      "seal"
+    ]
+  },
+  "438": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "439": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "440": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "441": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "442": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "443": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "444": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "445": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "446": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "447": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "448": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "449": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "450": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "451": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "452": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "453": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "water"
+    ]
+  },
+  "454": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "455": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "sea lion",
+      "rock"
+    ]
+  },
+  "456": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "457": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "stone"
+    ]
+  },
+  "458": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "fish"
+    ]
+  },
+  "459": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "460": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "461": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "462": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "tree",
+      "sand"
+    ]
+  },
+  "463": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "464": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "sea lion",
+      "rock",
+      "water"
+    ]
+  },
+  "465": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "466": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "467": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "468": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "sea lion",
+      "rock",
+      "crab"
+    ]
+  },
+  "469": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "walrus",
+      "rock",
+      "flipper"
+    ]
+  },
+  "470": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "471": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "sea lion",
+      "rock"
+    ]
+  },
+  "472": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "water"
+    ]
+  },
+  "473": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "474": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "475": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "476": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "477": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "crab",
+      "water"
+    ]
+  },
+  "478": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "479": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "480": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "481": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "bird",
+      "rock"
+    ]
+  },
+  "482": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "483": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "484": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "485": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "486": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "water"
+    ]
+  },
+  "487": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "488": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "489": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "water"
+    ]
+  },
+  "490": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "491": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal"
+    ]
+  },
+  "492": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "493": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "dolphin",
+      "water"
+    ]
+  },
+  "494": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "sea lion",
+      "rock"
+    ]
+  },
+  "495": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "496": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "497": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock",
+      "water"
+    ]
+  },
+  "498": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  },
+  "499": {
+    "label": 4,
+    "class_name": "arctocephalus_galapagoensis",
+    "objects": [
+      "seal",
+      "rock"
+    ]
+  }
+}

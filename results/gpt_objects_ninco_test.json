@@ -1,0 +1,206 @@
+{
+  "0": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "deer",
+      "grass",
+      "house",
+      "hill",
+      "tree"
+    ]
+  },
+  "1": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "branch",
+      "leaf",
+      "vine",
+      "tree",
+      "snake"
+    ]
+  },
+  "2": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass",
+      "branch",
+      "flower",
+      "path"
+    ]
+  },
+  "3": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "grass",
+      "branch"
+    ]
+  },
+  "4": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "grass",
+      "leaf",
+      "path"
+    ]
+  },
+  "5": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "cat",
+      "leaf",
+      "branch",
+      "grass"
+    ]
+  },
+  "6": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "fox",
+      "grass",
+      "tree",
+      "fence",
+      "shed"
+    ]
+  },
+  "7": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat",
+      "ground",
+      "leaf"
+    ]
+  },
+  "8": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "car",
+      "grass",
+      "soil"
+    ]
+  },
+  "9": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "collar",
+      "grass",
+      "plant",
+      "ground"
+    ]
+  },
+  "10": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "plant",
+      "grass"
+    ]
+  },
+  "11": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "rock",
+      "branch",
+      "bush",
+      "leaf"
+    ]
+  },
+  "12": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "duck",
+      "grass",
+      "road",
+      "bush",
+      "stick"
+    ]
+  },
+  "13": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "grass"
+    ]
+  },
+  "14": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "caracal",
+      "grass",
+      "tree",
+      "bush",
+      "branch"
+    ]
+  },
+  "15": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "rock",
+      "plant",
+      "camera"
+    ]
+  },
+  "16": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "dog",
+      "bush",
+      "concrete",
+      "hill",
+      "sky"
+    ]
+  },
+  "17": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "animal",
+      "rock",
+      "branch",
+      "sand",
+      "sky"
+    ]
+  },
+  "18": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "cat"
+    ]
+  },
+  "19": {
+    "label": 0,
+    "class_name": "Caracal caracal caracal",
+    "objects": [
+      "wild cat",
+      "bush",
+      "grass",
+      "collar",
+      "soil"
+    ]
+  }
+}
