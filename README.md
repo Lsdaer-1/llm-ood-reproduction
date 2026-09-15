@@ -46,4 +46,4 @@ Some descriptor-generation scripts use the OpenAI API. Set `OPENAI_API_KEY` in t
 
 ## Paper
 
-The reproduced paper is [Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection](https://aclanthology.org/2023.findings-emnlp.351/) by Cao et al. This repository is an independent reproduction, not an official implementation.
+The reproduced paper is [Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection](https://aclanthology.org/2023.findings-emnlp.351/) by Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, and Yongbin Li. This repository is an independent reproduction, not an official implementation.
